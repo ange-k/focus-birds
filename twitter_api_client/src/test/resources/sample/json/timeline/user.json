@@ -1,0 +1,5251 @@
+[
+  {
+    "created_at": "Mon Feb 08 10:12:35 +0000 2021",
+    "id": 1358720371449467000,
+    "id_str": "1358720371449466880",
+    "text": "@heimusume うーん、後者かな〜",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1358720195502592000,
+    "in_reply_to_status_id_str": "1358720195502592000",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Feb 08 10:10:44 +0000 2021",
+    "id": 1358719906221461500,
+    "id_str": "1358719906221461505",
+    "text": "@heimusume 幻覚の領域\n\nつまり瀕死",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1358691170063241200,
+    "in_reply_to_status_id_str": "1358691170063241216",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Feb 07 00:47:08 +0000 2021",
+    "id": 1358215683721449500,
+    "id_str": "1358215683721449472",
+    "text": "古いedgeさん殺されるのか〜\nこの判断は素晴らしい",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Feb 04 09:06:52 +0000 2021",
+    "id": 1357254283385741300,
+    "id_str": "1357254283385741312",
+    "text": "@thutaroh 文字のけいこを6年間、真っ当にやらずに今でも文字を綺麗に書くことができないマンが通ります\n\nそれによって3度は後悔しましたが省みる気はありません",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "thutaroh",
+          "name": "忠太郎",
+          "id": 824885127473803300,
+          "id_str": "824885127473803266",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1357246669822128000,
+    "in_reply_to_status_id_str": "1357246669822128128",
+    "in_reply_to_user_id": 824885127473803300,
+    "in_reply_to_user_id_str": "824885127473803266",
+    "in_reply_to_screen_name": "thutaroh",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Feb 04 06:22:46 +0000 2021",
+    "id": 1357212984670527500,
+    "id_str": "1357212984670527489",
+    "text": "森某氏の失言癖は国民は身をもって知っているはずなので国内的には予想通りなのではないか",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Feb 03 10:54:37 +0000 2021",
+    "id": 1356919012257538000,
+    "id_str": "1356919012257538049",
+    "text": "@NatukiYu そですね。。\n何とかできても12時間働いたり、どこからか人を連れてくるとかですな。\n品質は誤魔化せないからどっかで死ぬんですよ。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NatukiYu",
+          "name": "夏希 夕",
+          "id": 1090328545727963100,
+          "id_str": "1090328545727963136",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1356917787181023200,
+    "in_reply_to_status_id_str": "1356917787181023232",
+    "in_reply_to_user_id": 1090328545727963100,
+    "in_reply_to_user_id_str": "1090328545727963136",
+    "in_reply_to_screen_name": "NatukiYu",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Feb 03 10:15:22 +0000 2021",
+    "id": 1356909133660754000,
+    "id_str": "1356909133660753921",
+    "text": "@heimusume スケジュールと言えるかすら怪しめ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1356907931086643200,
+    "in_reply_to_status_id_str": "1356907931086643201",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Feb 03 10:03:36 +0000 2021",
+    "id": 1356906175170711600,
+    "id_str": "1356906175170711557",
+    "text": "@heimusume それよな",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1356905519126995000,
+    "in_reply_to_status_id_str": "1356905519126994946",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Feb 03 09:59:45 +0000 2021",
+    "id": 1356905204428378000,
+    "id_str": "1356905204428378112",
+    "text": "これをオンスケっていうの何なの？おかしいと思う僕がおかしいのかい？ https://t.co/A5vJEfE7UO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1356905200313725000,
+          "id_str": "1356905200313724928",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/EtSyFyqUcAAzX5f.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EtSyFyqUcAAzX5f.jpg",
+          "url": "https://t.co/A5vJEfE7UO",
+          "display_url": "pic.twitter.com/A5vJEfE7UO",
+          "expanded_url": "https://twitter.com/Me109E3_jp/status/1356905204428378112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1067,
+              "h": 530,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 338,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1067,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1356905200313725000,
+          "id_str": "1356905200313724928",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/EtSyFyqUcAAzX5f.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EtSyFyqUcAAzX5f.jpg",
+          "url": "https://t.co/A5vJEfE7UO",
+          "display_url": "pic.twitter.com/A5vJEfE7UO",
+          "expanded_url": "https://twitter.com/Me109E3_jp/status/1356905204428378112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1067,
+              "h": 530,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 338,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1067,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 31 12:42:29 +0000 2021",
+    "id": 1355858993751617500,
+    "id_str": "1355858993751617538",
+    "text": "原神は可愛い子に武器持たせてブンブンしたい欲を満たせて満足したのであとはのんびりしておきたい",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Jan 28 11:11:56 +0000 2021",
+    "id": 1354749043130331100,
+    "id_str": "1354749043130331143",
+    "text": "@NatukiYu あざます！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NatukiYu",
+          "name": "夏希 夕",
+          "id": 1090328545727963100,
+          "id_str": "1090328545727963136",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1354743781849919500,
+    "in_reply_to_status_id_str": "1354743781849919491",
+    "in_reply_to_user_id": 1090328545727963100,
+    "in_reply_to_user_id_str": "1090328545727963136",
+    "in_reply_to_screen_name": "NatukiYu",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Jan 28 07:20:52 +0000 2021",
+    "id": 1354690892125204500,
+    "id_str": "1354690892125204481",
+    "text": "異動願が通過してひとまずこの部署からは離れそう\n何やるか決まるのは三末だなあ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Jan 27 23:16:13 +0000 2021",
+    "id": 1354568927649493000,
+    "id_str": "1354568927649492994",
+    "text": "@yutaka_j08 オープンポジションでマッチする先に空きがあるかわかりませんが、ヤフーは雇う部門があると思います。\n自社内のIaaSもPaaSもありますし、それを使うためのプラットフォームもありますから。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "yutaka_j08",
+          "name": "silver_hawk(銀鷹)",
+          "id": 99620999,
+          "id_str": "99620999",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1354332156403740700,
+    "in_reply_to_status_id_str": "1354332156403740672",
+    "in_reply_to_user_id": 99620999,
+    "in_reply_to_user_id_str": "99620999",
+    "in_reply_to_screen_name": "yutaka_j08",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Jan 27 01:50:13 +0000 2021",
+    "id": 1354245295463305200,
+    "id_str": "1354245295463305217",
+    "text": "@pso2nekosuki 敵の鎧とかバリアが再生する上硬いっすよねえ\n\n世界ランク上がってくるとゴリ押しで割るのしんどくなるから元素反応考えるようになってくる",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "pso2nekosuki",
+          "name": "のら🐱",
+          "id": 887763189416341500,
+          "id_str": "887763189416341504",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1354240833965285400,
+    "in_reply_to_status_id_str": "1354240833965285384",
+    "in_reply_to_user_id": 887763189416341500,
+    "in_reply_to_user_id_str": "887763189416341504",
+    "in_reply_to_screen_name": "pso2nekosuki",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Jan 27 01:27:09 +0000 2021",
+    "id": 1354239488982093800,
+    "id_str": "1354239488982093829",
+    "text": "@pso2nekosuki 草\n\n旅人だからね、仕方ないね",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "pso2nekosuki",
+          "name": "のら🐱",
+          "id": 887763189416341500,
+          "id_str": "887763189416341504",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1354238763275194400,
+    "in_reply_to_status_id_str": "1354238763275194368",
+    "in_reply_to_user_id": 887763189416341500,
+    "in_reply_to_user_id_str": "887763189416341504",
+    "in_reply_to_screen_name": "pso2nekosuki",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Jan 27 01:04:46 +0000 2021",
+    "id": 1354233858254794800,
+    "id_str": "1354233858254794756",
+    "text": "@pso2nekosuki ドラゴンスパイン？w\n到達はやくない？？？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "pso2nekosuki",
+          "name": "のら🐱",
+          "id": 887763189416341500,
+          "id_str": "887763189416341504",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1354043113967247400,
+    "in_reply_to_status_id_str": "1354043113967247360",
+    "in_reply_to_user_id": 887763189416341500,
+    "in_reply_to_user_id_str": "887763189416341504",
+    "in_reply_to_screen_name": "pso2nekosuki",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Jan 26 02:23:04 +0000 2021",
+    "id": 1353891173031530500,
+    "id_str": "1353891173031530499",
+    "text": "@heimusume 安くて美味しい肉屋探索しよう",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1353885989261897700,
+    "in_reply_to_status_id_str": "1353885989261897730",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Jan 26 00:13:17 +0000 2021",
+    "id": 1353858513911517200,
+    "id_str": "1353858513911517185",
+    "text": "@heimusume おー、いいね。レシピはこんな感じで、香辛料は組み替えて好みを探すといい。僕はチリペッパー多めでコリアンダー入れたりする。\nよく使う香辛料は袋で買うと安いよ。神戸スパイスとか朝岡スパイスとか。\n\nhttps://t.co/WrpWR9sOvn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WrpWR9sOvn",
+          "expanded_url": "https://www.google.com/amp/s/kumiko-jp.com/archives/273954.html%3Famp%3D1",
+          "display_url": "google.com/amp/s/kumiko-j…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1353857554049167400,
+    "in_reply_to_status_id_str": "1353857554049167360",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Jan 25 23:59:07 +0000 2021",
+    "id": 1353854949008924700,
+    "id_str": "1353854949008924672",
+    "text": "@heimusume 半分冗談w\n片付いてたら、琺瑯のタッパーに入るだけ詰め込めるグラム数でやれるよ\n流石に200リットルとかは厳しいと思うけど",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1353854507772334000,
+    "in_reply_to_status_id_str": "1353854507772334082",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Jan 25 23:57:00 +0000 2021",
+    "id": 1353854414117687300,
+    "id_str": "1353854414117687296",
+    "text": "@heimusume 500リットル冷蔵庫デビューですね",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1353854171305263000,
+    "in_reply_to_status_id_str": "1353854171305263104",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Jan 25 23:55:13 +0000 2021",
+    "id": 1353853963779534800,
+    "id_str": "1353853963779534848",
+    "text": "肉屋で適当に肉を1.5キロくらいの角切りを買ってシシカバブの容量で漬け込んどくと8人前分はそれで生きれる。\n鉄串突っ込んでグリルで焼くだけ。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Jan 25 07:07:40 +0000 2021",
+    "id": 1353600409651167200,
+    "id_str": "1353600409651167233",
+    "text": "誰かに説明を頼んだ時は最低限でもいいから基礎知識を身につけて会議に挑めばいい\nマニュアル読んだらわかるような質問を連発するのはお互いに良くないよっておもう",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Jan 23 11:59:05 +0000 2021",
+    "id": 1352948968905293800,
+    "id_str": "1352948968905293830",
+    "text": "シムシティをやったことのある者だけが政治家に石を投げよ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jan 22 00:42:40 +0000 2021",
+    "id": 1352416355794866200,
+    "id_str": "1352416355794866177",
+    "text": "モノリスをマイクロサービスにした結果、繋ぎ先のAPIがバグっていてこっちもバグるなんてのはよくあると思う\n\nそこでモノリスは動くのにマイクロサービスにしたらなぜ動かないのか、と思う気持ちもわかるが、機能を委譲してんのにつなぎ先のA… https://t.co/0gc3qxFkMR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0gc3qxFkMR",
+          "expanded_url": "https://twitter.com/i/web/status/1352416355794866177",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 17 07:14:39 +0000 2021",
+    "id": 1350703061023420400,
+    "id_str": "1350703061023420417",
+    "text": "Chatworkがそれなりに長い時間をかけて\n分散システムの複雑さと事業ドメインに向き合うことができる会社だってだけでも魅力がある。\nただ動くだけのシステムは競争力を無くしていくからなあ。\n日本の多くの会社はそういうとこの投資が下… https://t.co/CaSQGz56kC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CaSQGz56kC",
+          "expanded_url": "https://twitter.com/i/web/status/1350703061023420417",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 10 12:03:30 +0000 2021",
+    "id": 1348239039611093000,
+    "id_str": "1348239039611092994",
+    "text": "@thutaroh ああ、それはその通りなんだと思う。\n無課金でも戦えるし、長い目で見たらキャラクターも低額で揃うわけだしね\n\nただ待てないし、凸したくなってしまう人間の方が多そうw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "thutaroh",
+          "name": "忠太郎",
+          "id": 824885127473803300,
+          "id_str": "824885127473803266",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1348228489539772400,
+    "in_reply_to_status_id_str": "1348228489539772417",
+    "in_reply_to_user_id": 824885127473803300,
+    "in_reply_to_user_id_str": "824885127473803266",
+    "in_reply_to_screen_name": "thutaroh",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 10 09:22:21 +0000 2021",
+    "id": 1348198483455479800,
+    "id_str": "1348198483455479809",
+    "text": "@NatukiYu 心のブレーキの訓練w",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NatukiYu",
+          "name": "夏希 夕",
+          "id": 1090328545727963100,
+          "id_str": "1090328545727963136",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1348196451059265500,
+    "in_reply_to_status_id_str": "1348196451059265541",
+    "in_reply_to_user_id": 1090328545727963100,
+    "in_reply_to_user_id_str": "1090328545727963136",
+    "in_reply_to_screen_name": "NatukiYu",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 10 09:07:03 +0000 2021",
+    "id": 1348194631452741600,
+    "id_str": "1348194631452741632",
+    "text": "@NatukiYu はい、集金力と中毒性はとてもたかそう。\n効率とか求めずに日々ちまちまやる勢なら平和かなと思う。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NatukiYu",
+          "name": "夏希 夕",
+          "id": 1090328545727963100,
+          "id_str": "1090328545727963136",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1348191533539815400,
+    "in_reply_to_status_id_str": "1348191533539815426",
+    "in_reply_to_user_id": 1090328545727963100,
+    "in_reply_to_user_id_str": "1090328545727963136",
+    "in_reply_to_screen_name": "NatukiYu",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 10 08:48:53 +0000 2021",
+    "id": 1348190060043124700,
+    "id_str": "1348190060043124736",
+    "text": "原神に手を出してしまったけど、気を抜くとpay to winに引きずり込まれそう。\n良くも悪くもよく出来てる。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 10 05:05:39 +0000 2021",
+    "id": 1348133883208888300,
+    "id_str": "1348133883208888322",
+    "text": "@bnisarg1 Thanks!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1348127787559788500,
+    "in_reply_to_status_id_str": "1348127787559788550",
+    "in_reply_to_user_id": 1102660490596110300,
+    "in_reply_to_user_id_str": "1102660490596110336",
+    "in_reply_to_screen_name": "xcodeTrans",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jan 10 03:34:09 +0000 2021",
+    "id": 1348110857817919500,
+    "id_str": "1348110857817919490",
+    "text": "@heimusume それはそうw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1348110610655940600,
+    "in_reply_to_status_id_str": "1348110610655940608",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 10 03:31:01 +0000 2021",
+    "id": 1348110067883643000,
+    "id_str": "1348110067883642882",
+    "text": "@heimusume 牛丼特盛肉マシ牛皿乗せみたいな話だからなー",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1348107820147777500,
+    "in_reply_to_status_id_str": "1348107820147777538",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 10 03:11:01 +0000 2021",
+    "id": 1348105035909980200,
+    "id_str": "1348105035909980160",
+    "text": "@heimusume そなんすよ\n卵3個入れたりチーズ、ベーコン山盛りにしなければそんな難しくないんだけど。\n\nhttps://t.co/lhaohGFMO6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lhaohGFMO6",
+          "expanded_url": "https://chefgohan.gnavi.co.jp/detail/5028",
+          "display_url": "chefgohan.gnavi.co.jp/detail/5028",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1348103292337864700,
+    "in_reply_to_status_id_str": "1348103292337864705",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 10 02:52:53 +0000 2021",
+    "id": 1348100469483192300,
+    "id_str": "1348100469483192320",
+    "text": "@heimusume 一回失敗したので中身を真ん中に寄せてたたみ直しました",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1348098823999012900,
+    "in_reply_to_status_id_str": "1348098823999012864",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 10 02:35:41 +0000 2021",
+    "id": 1348096142693654500,
+    "id_str": "1348096142693654531",
+    "text": "27cmのフライパンで無理やり作るIQ3のそば粉ガレット(3人前)\n\n畳めない… https://t.co/bOabJzWjsR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1348096136398033000,
+          "id_str": "1348096136398032896",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErVmSyUU0AAEe3n.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErVmSyUU0AAEe3n.jpg",
+          "url": "https://t.co/bOabJzWjsR",
+          "display_url": "pic.twitter.com/bOabJzWjsR",
+          "expanded_url": "https://twitter.com/Me109E3_jp/status/1348096142693654531/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1348096136398033000,
+          "id_str": "1348096136398032896",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErVmSyUU0AAEe3n.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErVmSyUU0AAEe3n.jpg",
+          "url": "https://t.co/bOabJzWjsR",
+          "display_url": "pic.twitter.com/bOabJzWjsR",
+          "expanded_url": "https://twitter.com/Me109E3_jp/status/1348096142693654531/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1348096136398061600,
+          "id_str": "1348096136398061570",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErVmSyUVQAIN0R_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErVmSyUVQAIN0R_.jpg",
+          "url": "https://t.co/bOabJzWjsR",
+          "display_url": "pic.twitter.com/bOabJzWjsR",
+          "expanded_url": "https://twitter.com/Me109E3_jp/status/1348096142693654531/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1348096136544882700,
+          "id_str": "1348096136544882688",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErVmSy3VkAAi1Ba.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErVmSy3VkAAi1Ba.jpg",
+          "url": "https://t.co/bOabJzWjsR",
+          "display_url": "pic.twitter.com/bOabJzWjsR",
+          "expanded_url": "https://twitter.com/Me109E3_jp/status/1348096142693654531/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jan 08 13:06:43 +0000 2021",
+    "id": 1347530171335676000,
+    "id_str": "1347530171335675904",
+    "text": "Twitter歴12年はそりゃ怖いわなと思って自分の見たら12年だった時の顔",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Jan 07 08:01:40 +0000 2021",
+    "id": 1347091014704525300,
+    "id_str": "1347091014704525314",
+    "text": "外国みたいな対応を〜って言ってる人、本当に政府が人権に干渉してもいいと思ってる思想の人なのか気になるw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Jan 07 06:53:06 +0000 2021",
+    "id": 1347073759769882600,
+    "id_str": "1347073759769882625",
+    "text": "@heimusume 日中エアコンつけっぱなしは電気代もバカにならないからなあ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heimusume",
+          "name": "へいむすめ",
+          "id": 49481376,
+          "id_str": "49481376",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1347066275416051700,
+    "in_reply_to_status_id_str": "1347066275416051714",
+    "in_reply_to_user_id": 49481376,
+    "in_reply_to_user_id_str": "49481376",
+    "in_reply_to_screen_name": "heimusume",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Jan 07 06:22:52 +0000 2021",
+    "id": 1347066153781272600,
+    "id_str": "1347066153781272577",
+    "text": "妻がエアコン嫌いなくせに寒がりだから熱線入りの着ぐるみでも買おうかと思ったが怒られるな。まじめなのに。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Jan 05 01:56:36 +0000 2021",
+    "id": 1346274366162567200,
+    "id_str": "1346274366162567168",
+    "text": "@NatukiYu まさにそういう隙のある人を釣ってますからねえ。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NatukiYu",
+          "name": "夏希 夕",
+          "id": 1090328545727963100,
+          "id_str": "1090328545727963136",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1346274059445670000,
+    "in_reply_to_status_id_str": "1346274059445669889",
+    "in_reply_to_user_id": 1090328545727963100,
+    "in_reply_to_user_id_str": "1090328545727963136",
+    "in_reply_to_screen_name": "NatukiYu",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Jan 04 23:41:02 +0000 2021",
+    "id": 1346240252478853000,
+    "id_str": "1346240252478853121",
+    "text": "お金配りおじさんは世界に一人なんだよなぁというのがよく表せてる(?\n\nこれでなくても高額プレゼントとかも騙される人が多い印象。\nいまやTwitterの公式マークも当てにならないし、LINEもいくらでも名前変えれるし、疑う心を持って… https://t.co/aqaz6TxwCT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/aqaz6TxwCT",
+          "expanded_url": "https://twitter.com/i/web/status/1346240252478853121",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1346061721102741500,
+    "quoted_status_id_str": "1346061721102741506",
+    "quoted_status": {
+      "created_at": "Mon Jan 04 11:51:37 +0000 2021",
+      "id": 1346061721102741500,
+      "id_str": "1346061721102741506",
+      "text": "まーーだ流れてくるので https://t.co/z212ABg97w",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1346061666849460200,
+            "id_str": "1346061666849460224",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eq4r9EpVEAAJ0Ph.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eq4r9EpVEAAJ0Ph.jpg",
+            "url": "https://t.co/z212ABg97w",
+            "display_url": "pic.twitter.com/z212ABg97w",
+            "expanded_url": "https://twitter.com/yashi09/status/1346061721102741506/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1500,
+                "h": 1000,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1346061666849460200,
+            "id_str": "1346061666849460224",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eq4r9EpVEAAJ0Ph.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eq4r9EpVEAAJ0Ph.jpg",
+            "url": "https://t.co/z212ABg97w",
+            "display_url": "pic.twitter.com/z212ABg97w",
+            "expanded_url": "https://twitter.com/yashi09/status/1346061721102741506/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1500,
+                "h": 1000,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 83495654,
+        "id_str": "83495654",
+        "name": "やしろあずき",
+        "screen_name": "yashi09",
+        "location": "タイタン鯖ミストヴィレッジ１９区１２番地",
+        "description": "毎日家にいる代表取締役社長。光の戦士/ローラン/livedoor公式ブロガー（月間2000万PV突破！）/web漫画家/株式会社グランツアセット（おたくのやどかり)執行役員/お仕事はDMではなく→yashiroya099@gmail.com YouTube→https://t.co/Jf3OHSSH9P",
+        "url": "https://t.co/9Xeu4HfJkr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/9Xeu4HfJkr",
+                "expanded_url": "http://yashiroazuki.blog.jp/",
+                "display_url": "yashiroazuki.blog.jp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/Jf3OHSSH9P",
+                "expanded_url": "http://ur2.link/Ruw5",
+                "display_url": "ur2.link/Ruw5",
+                "indices": [
+                  129,
+                  152
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 509931,
+        "friends_count": 1657,
+        "listed_count": 3215,
+        "created_at": "Mon Oct 19 01:42:02 +0000 2009",
+        "favourites_count": 26193,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 50848,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1317443252195241985/BVamNr3u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317443252195241985/BVamNr3u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/83495654/1580734095",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21700,
+      "favorite_count": 53474,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 03 13:23:56 +0000 2021",
+    "id": 1345722566002974700,
+    "id_str": "1345722566002974721",
+    "text": "が、これで3000円台ってのはイカれた値段設定だなあ。すごい。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1345721741025316900,
+    "in_reply_to_status_id_str": "1345721741025316864",
+    "in_reply_to_user_id": 94954128,
+    "in_reply_to_user_id_str": "94954128",
+    "in_reply_to_screen_name": "Me109E3_jp",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 03 13:20:40 +0000 2021",
+    "id": 1345721741025316900,
+    "id_str": "1345721741025316864",
+    "text": "atomcamでドアスコープにカメラつけれんかとやってみたが、倍率の都合上ダメだー",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 03 00:49:24 +0000 2021",
+    "id": 1345532681098936300,
+    "id_str": "1345532681098936321",
+    "text": "大手自社開発だけど完全に内製してるかどうかの差だよねぇ。\n個人的にはいらないんだよ、外注なんて。ビジネススキームで必要とされるのわかるけど。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1345532068973854700,
+    "in_reply_to_status_id_str": "1345532068973854720",
+    "in_reply_to_user_id": 94954128,
+    "in_reply_to_user_id_str": "94954128",
+    "in_reply_to_screen_name": "Me109E3_jp",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 03 00:46:58 +0000 2021",
+    "id": 1345532068973854700,
+    "id_str": "1345532068973854720",
+    "text": "ベンチャーは作るものに対して最適な言語を、Sier等を使うような大手では人材をスケールしやすい言語を使う\n\nGoの担い手100人集めるのとJavaを100人集めるのどっちが楽かって話だね\n\nだから任天堂みたいに大規模なのにエンジニアが好きな言語選んでやってるとこは貴重だし羨ましい",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jan 01 02:27:27 +0000 2021",
+    "id": 1344832581611634700,
+    "id_str": "1344832581611634688",
+    "text": "@NatukiYu 流石定価で買えないお味ってかんじだった",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NatukiYu",
+          "name": "夏希 夕",
+          "id": 1090328545727963100,
+          "id_str": "1090328545727963136",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1344832383258910700,
+    "in_reply_to_status_id_str": "1344832383258910720",
+    "in_reply_to_user_id": 1090328545727963100,
+    "in_reply_to_user_id_str": "1090328545727963136",
+    "in_reply_to_screen_name": "NatukiYu",
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jan 01 02:25:19 +0000 2021",
+    "id": 1344832042974863400,
+    "id_str": "1344832042974863362",
+    "text": "これで年明けを迎えましたうまかっ　です https://t.co/dqb1NVScIC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1344832038067605500,
+          "id_str": "1344832038067605505",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqnNnQeVkAEv-bL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqnNnQeVkAEv-bL.jpg",
+          "url": "https://t.co/dqb1NVScIC",
+          "display_url": "pic.twitter.com/dqb1NVScIC",
+          "expanded_url": "https://twitter.com/Me109E3_jp/status/1344832042974863362/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1344832038067605500,
+          "id_str": "1344832038067605505",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqnNnQeVkAEv-bL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqnNnQeVkAEv-bL.jpg",
+          "url": "https://t.co/dqb1NVScIC",
+          "display_url": "pic.twitter.com/dqb1NVScIC",
+          "expanded_url": "https://twitter.com/Me109E3_jp/status/1344832042974863362/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Dec 31 05:18:35 +0000 2020",
+    "id": 1344513260121280500,
+    "id_str": "1344513260121280512",
+    "text": "年末年始はおとなしくこれを読んでいます・・・\nhttps://t.co/m5yneQCUb2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/m5yneQCUb2",
+          "expanded_url": "https://amzn.to/34ZJKaB",
+          "display_url": "amzn.to/34ZJKaB",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Dec 31 04:41:15 +0000 2020",
+    "id": 1344503863429066800,
+    "id_str": "1344503863429066754",
+    "text": "クラウドプラットフォームとCICD, CCNAやら初歩のDB構築スキル程度なら僕でも持っているので特にインフラエンジニアの必要性を感じないんだけど、弊社みたいに万req/1sとか10Gbps回線じゃ足りんとか、個人情報を保護するた… https://t.co/NmhUHFXLTr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/NmhUHFXLTr",
+          "expanded_url": "https://twitter.com/i/web/status/1344503863429066754",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 94954128,
+      "id_str": "94954128",
+      "name": "あしたば",
+      "screen_name": "Me109E3_jp",
+      "location": "大阪 大阪市 都島区",
+      "description": "WebEngineer(front/back). Not long ago I was an embedded engineer. Ruby/Java/Node.js/Vue.js/TypeScript 青い子は@_ibk14さん作。赤い子は@LiricoZombieさん作。 Y!に飼われている。",
+      "url": "https://t.co/wWwctwNcf0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wWwctwNcf0",
+              "expanded_url": "https://www.chalkboard.me/",
+              "display_url": "chalkboard.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 108,
+      "friends_count": 108,
+      "listed_count": 3,
+      "created_at": "Sun Dec 06 07:08:47 +0000 2009",
+      "favourites_count": 819,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5678,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E8DDCB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225383591191838721/J5Q267cv_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/94954128/1580989190",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CAA252",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  }
+]
