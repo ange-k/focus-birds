@@ -4,8 +4,8 @@ spring:
 
 twitter-api:
   timeline:
-    home-uri: https://api.twitter.com/1.1/statuses/home_timeline.json
-    user-uri: https://api.twitter.com/1.1/statuses/user_timeline.json
+    domain: http://localhost:8088
+    user-path: /1.1/statuses/user_timeline.json
 
 twitter:
-  bearer:
+  bearer: override

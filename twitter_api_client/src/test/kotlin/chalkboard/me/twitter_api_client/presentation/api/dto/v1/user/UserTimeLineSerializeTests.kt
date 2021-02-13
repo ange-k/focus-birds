@@ -13,7 +13,7 @@ import java.net.URL
 class UserTimeLineSerializeTests {
     @Test
     fun UserTimeLineをクラスにデシリアライズする() {
-        val resource: URL? = this.javaClass.classLoader.getResource("sample/json/timeline/user.json")
+        val resource: URL? = this.javaClass.classLoader.getResource("__files/timeline/user.json")
         val json: String = resource?.readText() ?: ""
 
         if(StringUtils.isBlank(json)) fail("失敗")

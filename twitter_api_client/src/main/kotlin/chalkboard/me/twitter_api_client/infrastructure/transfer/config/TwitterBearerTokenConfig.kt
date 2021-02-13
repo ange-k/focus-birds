@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration
 
 @Configuration
 @ConfigurationProperties(prefix="twitter")
-class TwitterBearerTokenConfig {
+open class TwitterBearerTokenConfig {
     lateinit var bearer: String
 
     fun getBearerToken(): String {

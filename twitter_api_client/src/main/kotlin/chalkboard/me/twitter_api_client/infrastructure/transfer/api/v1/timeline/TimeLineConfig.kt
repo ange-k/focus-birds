@@ -17,10 +17,11 @@ import java.util.concurrent.TimeUnit
 
 @Configuration
 @ConfigurationProperties(prefix = "twitter-api.timeline")
-class TimeLineConfig(
+open class TimeLineConfig(
     val twitterBearerTokenConfig : TwitterBearerTokenConfig
 ) {
-    lateinit var homeUri: String
+    lateinit var domain: String
+    lateinit var userPath: String
 
     private val reactorClientHttpConnector: ReactorClientHttpConnector
         = ReactorClientHttpConnector(HttpClient.create().secure()
@@ -30,7 +31,7 @@ class TimeLineConfig(
 
     fun homeTimeLineClient(): WebClient {
         return WebClient.builder()
-            .baseUrl(homeUri)
+            .baseUrl(domain + userPath)
             .clientConnector(reactorClientHttpConnector)
             .defaultHeader(HttpHeaders.AUTHORIZATION, twitterBearerTokenConfig.getBearerToken())
             .build()
