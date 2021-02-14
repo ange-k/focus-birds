@@ -1,0 +1,14 @@
+{
+  "name": "単一ユーザ情報の取得",
+  "request": {
+    "urlPattern": "/2/users/by/username/.*",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "/user/lookup.json",
+    "headers": {
+      "Content-Type": "application/json; charset=UTF-8"
+    }
+  }
+}

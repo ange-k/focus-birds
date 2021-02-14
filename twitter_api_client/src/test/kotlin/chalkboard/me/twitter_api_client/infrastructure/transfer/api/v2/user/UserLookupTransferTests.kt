@@ -3,6 +3,7 @@ package chalkboard.me.twitter_api_client.infrastructure.transfer.api.v2.user
 import chalkboard.me.twitter_api_client.TwitterApiClientApplication
 import chalkboard.me.twitter_api_client.config.WireMockInitializer
 import chalkboard.me.twitter_api_client.presentation.api.dto.v1.TweetDto
+import chalkboard.me.twitter_api_client.presentation.api.dto.v2.user.LookUpResponse
 import chalkboard.me.twitter_api_client.presentation.api.v1.timeline.UserTimeLineRequest
 import chalkboard.me.twitter_api_client.presentation.api.v2.user.UserLookupRequest
 import chalkboard.me.twitter_api_client.presentation.api.v2.user.lookup.TweetField
@@ -44,7 +45,15 @@ class UserLookupTransferTests(
             mutableListOf(TweetField.ID, TweetField.AUTHOR_ID, TweetField.PUBLIC_METRICS),
             mutableListOf(UserField.CREATED_AT, UserField.ID, UserField.USERNAME, UserField.PUBLIC_METRICS)
         )
+        val responseMono: Mono<LookUpResponse>? = userLookupTransfer?.userLookup(request, "Me109E3_jp")
+        responseMono?.also {
+            StepVerifier.create(it)
+                .expectNextMatches { response ->
+                    response.data.name == "あしたば"
+                }
+        } ?: run {
+            fail("テスト失敗")
+        }
 
-        userLookupTransfer?.userLookup(request, "Me109E3_jp")
     }
 }
