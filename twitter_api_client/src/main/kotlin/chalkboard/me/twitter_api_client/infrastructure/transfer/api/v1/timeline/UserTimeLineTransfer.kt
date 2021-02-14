@@ -3,7 +3,6 @@ package chalkboard.me.twitter_api_client.infrastructure.transfer.api.v1.timeline
 import chalkboard.me.twitter_api_client.presentation.api.dto.v1.TweetDto
 import chalkboard.me.twitter_api_client.presentation.api.v1.timeline.UserTimeLineRepository
 import chalkboard.me.twitter_api_client.presentation.api.v1.timeline.UserTimeLineRequest
-import lombok.extern.slf4j.Slf4j
 import org.slf4j.LoggerFactory
 import org.springframework.core.ParameterizedTypeReference
 import org.springframework.http.HttpStatus
@@ -20,7 +19,7 @@ class UserTimeLineTransfer(
     }
 
     override fun userTimeLine(request: UserTimeLineRequest) : Mono<List<TweetDto>> {
-        return timeLineConfig.homeTimeLineClient().get()
+        return timeLineConfig.v1UserTimeLineClient().get()
             .uri { builder ->
                 builder.queryParam("screen_name", request.screenName)
                 request.count?.let { builder.queryParam("count", request.count) }

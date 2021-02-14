@@ -19,7 +19,7 @@ class UserLookupTransfer(
         private val log = LoggerFactory.getLogger(UserTimeLineTransfer::class.java)
     }
 
-    fun userLookup(request: UserLookupRequest, screenName: String): Mono<LookUpResponse> {
+    override fun userLookup(request: UserLookupRequest, screenName: String): Mono<LookUpResponse> {
         return userConfig.userLookupClient().get()
             .uri { builder ->
                 builder.queryParams(request.queryParameter()).build(screenName)

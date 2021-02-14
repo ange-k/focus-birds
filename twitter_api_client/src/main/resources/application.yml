@@ -4,8 +4,6 @@ spring:
 
 twitter-api:
   timeline:
-    domain: https://api.twitter.com
-    user-path: /1.1/statuses/user_timeline.json
+    v1-user-path: /1.1/statuses/user_timeline.json
   user:
-    domain: https://api.twitter.com
     lookup-path: /2/users/by/username/{username}

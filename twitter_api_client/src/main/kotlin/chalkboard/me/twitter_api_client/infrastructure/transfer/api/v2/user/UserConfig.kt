@@ -1,6 +1,6 @@
 package chalkboard.me.twitter_api_client.infrastructure.transfer.api.v2.user
 
-import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterBearerTokenConfig
+import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterConfig
 import io.netty.channel.ChannelOption
 import io.netty.handler.timeout.ReadTimeoutHandler
 import org.springframework.boot.context.properties.ConfigurationProperties
@@ -15,9 +15,8 @@ import java.util.concurrent.TimeUnit
 @Configuration
 @ConfigurationProperties(prefix = "twitter-api.user")
 open class UserConfig(
-    val twitterBearerTokenConfig : TwitterBearerTokenConfig
+    val twitterConfig : TwitterConfig
 ) {
-    lateinit var domain: String
     lateinit var lookupPath: String
 
     private val reactorClientHttpConnector: ReactorClientHttpConnector
@@ -29,9 +28,9 @@ open class UserConfig(
 
     fun userLookupClient(): WebClient {
         return WebClient.builder()
-            .baseUrl(domain + lookupPath)
+            .baseUrl(twitterConfig.domain + lookupPath)
             .clientConnector(reactorClientHttpConnector)
-            .defaultHeader(HttpHeaders.AUTHORIZATION, twitterBearerTokenConfig.getBearerToken())
+            .defaultHeader(HttpHeaders.AUTHORIZATION, twitterConfig.getBearerToken())
             .build()
     }
 }

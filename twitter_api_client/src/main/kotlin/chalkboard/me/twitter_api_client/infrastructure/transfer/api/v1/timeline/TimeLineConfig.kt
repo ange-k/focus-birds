@@ -1,12 +1,9 @@
 package chalkboard.me.twitter_api_client.infrastructure.transfer.api.v1.timeline
 
-import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterBearerTokenConfig
+import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterConfig
 import io.netty.channel.ChannelOption
 import io.netty.handler.timeout.ReadTimeoutHandler
-import lombok.Getter
-import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.context.properties.ConfigurationProperties
-import org.springframework.boot.context.properties.ConstructorBinding
 import org.springframework.context.annotation.Configuration
 import org.springframework.http.HttpHeaders
 import org.springframework.http.client.reactive.ReactorClientHttpConnector
@@ -18,10 +15,9 @@ import java.util.concurrent.TimeUnit
 @Configuration
 @ConfigurationProperties(prefix = "twitter-api.timeline")
 open class TimeLineConfig(
-    private val twitterBearerTokenConfig : TwitterBearerTokenConfig
+    private val twitterConfig : TwitterConfig
 ) {
-    private lateinit var domain: String
-    private lateinit var userPath: String
+    lateinit var v1UserPath: String
 
     private val reactorClientHttpConnector: ReactorClientHttpConnector
         = ReactorClientHttpConnector(HttpClient.create().secure()
@@ -29,11 +25,11 @@ open class TimeLineConfig(
         .doOnConnected { connection: Connection -> connection.addHandlerLast(ReadTimeoutHandler(5000L, TimeUnit.MILLISECONDS)) }
     )
 
-    fun homeTimeLineClient(): WebClient {
+    fun v1UserTimeLineClient(): WebClient {
         return WebClient.builder()
-            .baseUrl(domain + userPath)
+            .baseUrl(twitterConfig.domain + v1UserPath)
             .clientConnector(reactorClientHttpConnector)
-            .defaultHeader(HttpHeaders.AUTHORIZATION, twitterBearerTokenConfig.getBearerToken())
+            .defaultHeader(HttpHeaders.AUTHORIZATION, twitterConfig.getBearerToken())
             .build()
     }
 }

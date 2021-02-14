@@ -1,2 +1,3 @@
 twitter:
+  domain: https://api.twitter.com
   bearer: override
