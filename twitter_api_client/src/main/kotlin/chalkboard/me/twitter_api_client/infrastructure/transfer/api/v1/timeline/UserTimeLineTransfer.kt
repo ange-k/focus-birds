@@ -12,7 +12,8 @@ import reactor.core.publisher.Mono
 import java.lang.RuntimeException
 
 @Repository
-class UserTimeLineTransfer(private val timeLineConfig: TimeLineConfig) : UserTimeLineRepository {
+class UserTimeLineTransfer(
+    private val timeLineConfig: TimeLineConfig) : UserTimeLineRepository {
 
     companion object {
         private val log = LoggerFactory.getLogger(UserTimeLineTransfer::class.java)

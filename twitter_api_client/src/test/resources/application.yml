@@ -6,6 +6,9 @@ twitter-api:
   timeline:
     domain: http://localhost:8088
     user-path: /1.1/statuses/user_timeline.json
+  user:
+    domain: https://api.twitter.com
+    lookup-path: /2/users/by/username/{username}
 
 twitter:
   bearer: override
