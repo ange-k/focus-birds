@@ -1,5 +1,9 @@
-package chalkboard.me.twitter_api_client.presentation.api.v2.user.lookup
+package chalkboard.me.twitter_api_client.presentation.api.v2.domain
 
+/**
+ * TwitterAPIの定めるユーザー・オブジェクトモデル
+ * https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/user
+ */
 enum class UserField(val query: String) {
     CREATED_AT("created_at"),   // ユーザーアカウントがTwitterで作成されたUTCの日付。
     DESCRIPTION("description"), // このユーザーのプロフィール説明

@@ -1,8 +1,8 @@
 package chalkboard.me.twitter_api_client.presentation.api.v2.user
 
 import chalkboard.me.twitter_api_client.presentation.api.v2.user.lookup.Expansion
-import chalkboard.me.twitter_api_client.presentation.api.v2.user.lookup.TweetField
-import chalkboard.me.twitter_api_client.presentation.api.v2.user.lookup.UserField
+import chalkboard.me.twitter_api_client.presentation.api.v2.domain.TweetField
+import chalkboard.me.twitter_api_client.presentation.api.v2.domain.UserField
 import org.springframework.util.LinkedMultiValueMap
 import org.springframework.util.MultiValueMap
 import java.util.stream.Collectors

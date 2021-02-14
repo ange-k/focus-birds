@@ -1,5 +1,9 @@
-package chalkboard.me.twitter_api_client.presentation.api.v2.user.lookup
+package chalkboard.me.twitter_api_client.presentation.api.v2.domain
 
+/**
+ * TwitterAPIの定めるツイート・オブジェクトモデル
+ * https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/tweet
+ */
 enum class TweetField(val query: String) {
     ATTACHMENTS("attachments"), // ツイートに存在する添付ファイルの種類を指定
     AUTHOR_ID("author_id"), // このツイートを投稿したユーザーの固有の識別子

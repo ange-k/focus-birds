@@ -2,12 +2,10 @@ package chalkboard.me.twitter_api_client.infrastructure.transfer.api.v2.user
 
 import chalkboard.me.twitter_api_client.TwitterApiClientApplication
 import chalkboard.me.twitter_api_client.config.WireMockInitializer
-import chalkboard.me.twitter_api_client.presentation.api.dto.v1.TweetDto
 import chalkboard.me.twitter_api_client.presentation.api.dto.v2.user.LookUpResponse
-import chalkboard.me.twitter_api_client.presentation.api.v1.timeline.UserTimeLineRequest
 import chalkboard.me.twitter_api_client.presentation.api.v2.user.UserLookupRequest
-import chalkboard.me.twitter_api_client.presentation.api.v2.user.lookup.TweetField
-import chalkboard.me.twitter_api_client.presentation.api.v2.user.lookup.UserField
+import chalkboard.me.twitter_api_client.presentation.api.v2.domain.TweetField
+import chalkboard.me.twitter_api_client.presentation.api.v2.domain.UserField
 import com.github.tomakehurst.wiremock.WireMockServer
 import org.junit.jupiter.api.AfterEach
 import org.junit.jupiter.api.Test
