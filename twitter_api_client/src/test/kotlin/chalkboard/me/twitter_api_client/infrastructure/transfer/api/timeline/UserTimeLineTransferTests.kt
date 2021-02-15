@@ -1,6 +1,6 @@
 package chalkboard.me.twitter_api_client.infrastructure.transfer.api.timeline
 
-import chalkboard.me.twitter_api_client.TwitterApiClientApplication
+import chalkboard.me.twitter_api_client.ComponentTestConfig
 import chalkboard.me.twitter_api_client.config.WireMockInitializer
 import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterConfig
 import chalkboard.me.twitter_api_client.presentation.api.dto.v1.TweetDto
@@ -20,7 +20,7 @@ import reactor.core.publisher.Mono
 import reactor.test.StepVerifier
 
 @ExtendWith(SpringExtension::class)
-@SpringBootTest(classes = [TwitterApiClientApplication::class])
+@SpringBootTest(classes = [ComponentTestConfig::class])
 @ContextConfiguration(initializers = [WireMockInitializer::class])
 @EnableConfigurationProperties(TwitterConfig::class)
 @ConfigurationPropertiesScan
