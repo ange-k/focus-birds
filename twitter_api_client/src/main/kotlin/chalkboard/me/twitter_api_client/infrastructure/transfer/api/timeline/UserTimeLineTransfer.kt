@@ -1,4 +1,4 @@
-package chalkboard.me.twitter_api_client.infrastructure.transfer.api.v1.timeline
+package chalkboard.me.twitter_api_client.infrastructure.transfer.api.timeline
 
 import chalkboard.me.twitter_api_client.presentation.api.dto.v1.TweetDto
 import chalkboard.me.twitter_api_client.presentation.api.v1.timeline.UserTimeLineRepository
@@ -12,13 +12,14 @@ import java.lang.RuntimeException
 
 @Repository
 class UserTimeLineTransfer(
-    private val timeLineConfig: TimeLineConfig) : UserTimeLineRepository {
+    private val timeLineConfig: TimeLineConfig
+) : UserTimeLineRepository {
 
     companion object {
         private val log = LoggerFactory.getLogger(UserTimeLineTransfer::class.java)
     }
 
-    override fun userTimeLine(request: UserTimeLineRequest) : Mono<List<TweetDto>> {
+    override fun v1UserTimeLine(request: UserTimeLineRequest) : Mono<List<TweetDto>> {
         return timeLineConfig.v1UserTimeLineClient().get()
             .uri { builder ->
                 builder.queryParam("screen_name", request.screenName)

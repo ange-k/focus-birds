@@ -4,5 +4,5 @@ import chalkboard.me.twitter_api_client.presentation.api.dto.v1.TweetDto
 import reactor.core.publisher.Mono
 
 interface UserTimeLineRepository {
-    fun userTimeLine(request: UserTimeLineRequest) : Mono<List<TweetDto>>
+    fun v1UserTimeLine(request: UserTimeLineRequest) : Mono<List<TweetDto>>
 }

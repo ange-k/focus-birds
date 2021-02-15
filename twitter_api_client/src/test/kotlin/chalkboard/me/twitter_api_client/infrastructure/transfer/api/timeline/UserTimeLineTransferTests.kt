@@ -1,4 +1,4 @@
-package chalkboard.me.twitter_api_client.infrastructure.transfer.api.v1.timeline
+package chalkboard.me.twitter_api_client.infrastructure.transfer.api.timeline
 
 import chalkboard.me.twitter_api_client.TwitterApiClientApplication
 import chalkboard.me.twitter_api_client.config.WireMockInitializer
@@ -42,7 +42,7 @@ class UserTimeLineTransferTests(
             it.count = 50
         }
 
-        val responseMono: Mono<List<TweetDto>>? = userTimeLineTransfer?.userTimeLine(request)
+        val responseMono: Mono<List<TweetDto>>? = userTimeLineTransfer?.v1UserTimeLine(request)
         responseMono?.also {
             StepVerifier.create(it)
                 .expectNextMatches { response ->

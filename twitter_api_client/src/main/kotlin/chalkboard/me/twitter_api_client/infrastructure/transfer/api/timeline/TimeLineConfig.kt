@@ -1,4 +1,4 @@
-package chalkboard.me.twitter_api_client.infrastructure.transfer.api.v2.timeline
+package chalkboard.me.twitter_api_client.infrastructure.transfer.api.timeline
 
 import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterConfig
 import io.netty.channel.ChannelOption
@@ -17,18 +17,18 @@ import java.util.concurrent.TimeUnit
 open class TimeLineConfig(
     private val twitterConfig : TwitterConfig
 ) {
+    lateinit var v1UserPath: String
     lateinit var v2UserPath: String
 
     private val reactorClientHttpConnector: ReactorClientHttpConnector
-            = ReactorClientHttpConnector(
-        HttpClient.create().secure()
+        = ReactorClientHttpConnector(HttpClient.create().secure()
         .option(ChannelOption.CONNECT_TIMEOUT_MILLIS, 1000)
         .doOnConnected { connection: Connection -> connection.addHandlerLast(ReadTimeoutHandler(5000L, TimeUnit.MILLISECONDS)) }
     )
 
-    fun v2UserTimeLineClient(): WebClient {
+    fun v1UserTimeLineClient(): WebClient {
         return WebClient.builder()
-            .baseUrl(twitterConfig.domain + v2UserPath)
+            .baseUrl(twitterConfig.domain + v1UserPath)
             .clientConnector(reactorClientHttpConnector)
             .defaultHeader(HttpHeaders.AUTHORIZATION, twitterConfig.getBearerToken())
             .build()

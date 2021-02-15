@@ -1,6 +1,6 @@
-package chalkboard.me.twitter_api_client.infrastructure.transfer.api.v2.user
+package chalkboard.me.twitter_api_client.infrastructure.transfer.api.user
 
-import chalkboard.me.twitter_api_client.infrastructure.transfer.api.v1.timeline.UserTimeLineTransfer
+import chalkboard.me.twitter_api_client.infrastructure.transfer.api.timeline.UserTimeLineTransfer
 import chalkboard.me.twitter_api_client.presentation.api.dto.v2.user.LookUpResponse
 import chalkboard.me.twitter_api_client.presentation.api.v2.user.UserLookupRepository
 import chalkboard.me.twitter_api_client.presentation.api.v2.user.UserLookupRequest

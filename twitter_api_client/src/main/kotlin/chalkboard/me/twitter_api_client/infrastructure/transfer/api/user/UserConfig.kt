@@ -1,4 +1,4 @@
-package chalkboard.me.twitter_api_client.infrastructure.transfer.api.v2.user
+package chalkboard.me.twitter_api_client.infrastructure.transfer.api.user
 
 import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterConfig
 import io.netty.channel.ChannelOption
