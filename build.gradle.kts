@@ -33,6 +33,7 @@ subprojects {
         freeCompilerArgs = listOf("-Xjsr305=strict")
         jvmTarget = "11"
       }
+      dependsOn(processResources)
     }
     compileTestKotlin {
       kotlinOptions {
@@ -58,9 +59,9 @@ subprojects {
     testImplementation("org.springframework.boot:spring-boot-starter-test") {
       exclude("org.junit.vintage", "junit-vintage-engine")
     }
-    testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("org.assertj:assertj-core:3.11.1")
 
-    kapt("org.springframework.boot:spring-boot-configuration-processor")
+    kapt("org.springframework.boot","spring-boot-configuration-processor","2.4.2")
+    compileOnly("org.springframework.boot:spring-boot-configuration-processor")
   }
 }

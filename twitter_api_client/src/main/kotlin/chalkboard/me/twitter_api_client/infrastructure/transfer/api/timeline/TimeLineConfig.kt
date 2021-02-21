@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit
 
 @Configuration
 @ConfigurationProperties(prefix = "twitter-api.timeline")
-open class TimeLineConfig(
+class TimeLineConfig(
     private val twitterConfig : TwitterConfig
 ) {
     lateinit var v1UserPath: String

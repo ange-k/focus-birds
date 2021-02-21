@@ -8,6 +8,7 @@ dependencies {
 	implementation(project(":twitter_api_client"))
 	implementation("org.springframework.boot:spring-boot-starter-batch")
 	implementation("org.mybatis.spring.boot:mybatis-spring-boot-starter:2.1.3")
+	implementation("org.mybatis.scripting:mybatis-thymeleaf:1.0.2")
 	runtimeOnly("mysql:mysql-connector-java")
 	testImplementation("org.springframework.batch:spring-batch-test")
 
