@@ -1,6 +1,8 @@
-package chalkboard.me.twitter_api_client.presentation.api.v2.domain
+package chalkboard.me.twitter_api_client.domain.model.nativeapi.fields
 
-enum class MediaField(val query: String) {
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.queryfields.EnumQueryFields
+
+enum class MediaField(override val query: String) : EnumQueryFields {
     DURATION_MS("duration_ms"), // タイプがビデオの場合に利用可能です。動画の持続時間をミリ秒単位で指定します
     HEIGHT("height"),         // このコンテンツの高さをピクセル単位で指定します
     MEDIA_KEY("media_key"),  // 拡張メディアコンテンツの一意の識別子

@@ -1,6 +1,8 @@
-package chalkboard.me.twitter_api_client.presentation.api.v2.timeline.tweet
+package chalkboard.me.twitter_api_client.domain.model.nativeapi.expansions.timeline
 
-enum class Expansion(val query:String) {
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.queryfields.EnumQueryFields
+
+enum class UserTimelineExpansion(override val query:String) : EnumQueryFields {
     ATTACHMENTS_POLL_IDS("attachments.poll_ids"),  // Tweetに含まれるポーリングのメタデータを含むポーリングオブジェクトを返す
     ATTACHMENTS_MEDIA_KEYS("attachments.media_keys"), // ツイートに含まれる画像、動画、GIFを表すメディアオブジェクトを返す
     AUTHOR_ID("author_id"), // 作成者のIDを返す

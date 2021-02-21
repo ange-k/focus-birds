@@ -1,10 +1,12 @@
-package chalkboard.me.twitter_api_client.presentation.api.v2.domain
+package chalkboard.me.twitter_api_client.domain.model.nativeapi.fields
+
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.queryfields.EnumQueryFields
 
 /**
  * TwitterAPIの定めるツイート・オブジェクトモデル
  * https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/tweet
  */
-enum class TweetField(val query: String) {
+enum class TweetField(override val query: String) : EnumQueryFields {
     ATTACHMENTS("attachments"), // ツイートに存在する添付ファイルの種類を指定
     AUTHOR_ID("author_id"), // このツイートを投稿したユーザーの固有の識別子
     CONTEXT_ANNOTATIONS("context_annotations"), // ツイートのコンテキストアノテーション

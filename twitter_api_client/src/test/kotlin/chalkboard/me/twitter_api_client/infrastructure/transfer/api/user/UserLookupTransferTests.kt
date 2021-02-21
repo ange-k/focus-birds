@@ -2,11 +2,12 @@ package chalkboard.me.twitter_api_client.infrastructure.transfer.api.user
 
 import chalkboard.me.twitter_api_client.ComponentTestConfig
 import chalkboard.me.twitter_api_client.config.WireMockInitializer
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.queryfields.RequestQueries
 import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterConfig
 import chalkboard.me.twitter_api_client.presentation.api.dto.v2.user.LookUpResponse
 import chalkboard.me.twitter_api_client.presentation.api.v2.user.UserLookupRequest
-import chalkboard.me.twitter_api_client.presentation.api.v2.domain.TweetField
-import chalkboard.me.twitter_api_client.presentation.api.v2.domain.UserField
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.TweetField
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.UserField
 import com.github.tomakehurst.wiremock.WireMockServer
 import org.junit.jupiter.api.AfterEach
 import org.junit.jupiter.api.Test
@@ -42,9 +43,9 @@ class UserLookupTransferTests(
     fun UserTimeLineの取得() {
         userLookupTransfer = UserLookupTransfer(userConfig)
         val request : UserLookupRequest = UserLookupRequest(
-            mutableListOf(),
-            mutableListOf(TweetField.ID, TweetField.AUTHOR_ID, TweetField.PUBLIC_METRICS),
-            mutableListOf(UserField.CREATED_AT, UserField.ID, UserField.USERNAME, UserField.PUBLIC_METRICS)
+            RequestQueries("expansions", mutableListOf()),
+            RequestQueries("tweet.fields", mutableListOf(TweetField.ID, TweetField.AUTHOR_ID, TweetField.PUBLIC_METRICS)),
+            RequestQueries("user.fields",mutableListOf(UserField.CREATED_AT, UserField.ID, UserField.USERNAME, UserField.PUBLIC_METRICS))
         )
         val responseMono: Mono<LookUpResponse>? = userLookupTransfer?.userLookup(request, "Me109E3_jp")
         responseMono?.also {

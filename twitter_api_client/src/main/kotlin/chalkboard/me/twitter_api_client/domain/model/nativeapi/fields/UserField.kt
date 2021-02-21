@@ -1,10 +1,12 @@
-package chalkboard.me.twitter_api_client.presentation.api.v2.domain
+package chalkboard.me.twitter_api_client.domain.model.nativeapi.fields
+
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.queryfields.EnumQueryFields
 
 /**
  * TwitterAPIの定めるユーザー・オブジェクトモデル
  * https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/user
  */
-enum class UserField(val query: String) {
+enum class UserField(override val query: String) : EnumQueryFields {
     CREATED_AT("created_at"),   // ユーザーアカウントがTwitterで作成されたUTCの日付。
     DESCRIPTION("description"), // このユーザーのプロフィール説明
     ENTITIES("entities"),       // ユーザーの説明に特別な意味を持つテキストの詳細が含まれています
