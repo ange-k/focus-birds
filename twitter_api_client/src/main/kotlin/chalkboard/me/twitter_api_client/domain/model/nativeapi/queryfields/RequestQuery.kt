@@ -5,9 +5,10 @@ import java.util.stream.Collectors
 
 class RequestQuery (
     private val key: String,
-    private val value: String
+    private val value: String?
 ) : QueryParameterChain {
     override fun chain(query: MultiValueMap<String, String>) {
+        if(value.isNullOrEmpty()) return
         query[key] = value
     }
 }

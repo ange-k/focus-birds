@@ -3,6 +3,7 @@ package chalkboard.me.twitter_api_client.infrastructure.transfer.api.timeline
 import chalkboard.me.twitter_api_client.presentation.api.dto.v1.TweetDto
 import chalkboard.me.twitter_api_client.presentation.api.v1.timeline.UserTimeLineRepository
 import chalkboard.me.twitter_api_client.presentation.api.v1.timeline.UserTimeLineRequest
+import chalkboard.me.twitter_api_client.presentation.api.v2.timeline.UserTweetTimeLineRequest
 import org.slf4j.LoggerFactory
 import org.springframework.core.ParameterizedTypeReference
 import org.springframework.http.HttpStatus
@@ -38,5 +39,9 @@ class UserTimeLineTransfer(
                 }
             }
             .bodyToMono(object: ParameterizedTypeReference<List<TweetDto>>(){})
+    }
+
+    fun v2UserTweetTimeLine(request: UserTweetTimeLineRequest) {
+
     }
 }
