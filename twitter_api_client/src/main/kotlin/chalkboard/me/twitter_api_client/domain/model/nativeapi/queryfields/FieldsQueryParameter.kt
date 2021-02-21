@@ -7,7 +7,7 @@ class FieldsQueryParameter private constructor(
     val queryMap: MultiValueMap<String,String>
 ) {
     companion object {
-        fun from(vararg  requests: RequestQueries<EnumQueryFields>) : FieldsQueryParameter {
+        fun from(vararg  requests: QueryParameterChain) : FieldsQueryParameter {
             val queryMap: MultiValueMap<String,String> = LinkedMultiValueMap()
             requests.forEach { req -> req.chain(queryMap) }
             return FieldsQueryParameter(queryMap)
