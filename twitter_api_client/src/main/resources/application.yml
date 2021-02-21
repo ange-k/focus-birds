@@ -1,6 +1,6 @@
-spring:
-  profiles:
-    active: prod
+twitter:
+  domain: https://api.twitter.com
+  bearer: override
 
 twitter-api:
   timeline:

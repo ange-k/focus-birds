@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: "jdbc:mysql://db/dev_focus_birds"
+    username: docker
+    password: docker
+    #schema:  # 初期化DDL
+    #initialization-mode: always
+  batch:
+    job:
+      names: sampleJob

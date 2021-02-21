@@ -1,0 +1,21 @@
+version: '3'
+# 開発用DB構築が目的.
+
+services:
+  # MySQL
+  db:
+    image: mysql:8.0
+    container_name: mysql_focus_birds_dev
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: dev_focus_birds
+      MYSQL_USER: docker
+      MYSQL_PASSWORD: docker
+      TZ: 'Asia/Tokyo'
+    volumes:
+      - ./my.cnf:/etc/mysql/conf.d/my.cnf
+    tmpfs:
+      - /var/lib/mysql
+      - /var/log/mysql
+    ports:
+      - 3306:3306
