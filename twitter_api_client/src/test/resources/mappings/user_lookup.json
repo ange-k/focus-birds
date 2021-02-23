@@ -6,7 +6,7 @@
   },
   "response": {
     "status": 200,
-    "bodyFileName": "/user/lookup.json",
+    "bodyFileName": "user/lookup.json",
     "headers": {
       "Content-Type": "application/json; charset=UTF-8"
     }

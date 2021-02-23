@@ -9,6 +9,7 @@ import chalkboard.me.twitter_api_client.presentation.api.v2.user.UserLookupReque
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.TweetField
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.UserField
 import com.github.tomakehurst.wiremock.WireMockServer
+import com.github.tomakehurst.wiremock.client.WireMock.*
 import org.junit.jupiter.api.AfterEach
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.extension.ExtendWith
@@ -40,22 +41,30 @@ class UserLookupTransferTests(
     }
 
     @Test
-    fun UserTimeLineの取得() {
+    fun UserLookupの取得() {
+        // setup
+        val id = "Me109E3_jp"
         userLookupTransfer = UserLookupTransfer(userConfig)
         val request : UserLookupRequest = UserLookupRequest(
             RequestQueries("expansions", mutableListOf()),
             RequestQueries("tweet.fields", mutableListOf(TweetField.ID, TweetField.AUTHOR_ID, TweetField.PUBLIC_METRICS)),
             RequestQueries("user.fields",mutableListOf(UserField.CREATED_AT, UserField.ID, UserField.USERNAME, UserField.PUBLIC_METRICS))
         )
-        val responseMono: Mono<LookUpResponse>? = userLookupTransfer?.userLookup(request, "Me109E3_jp")
+        val responseMono: Mono<LookUpResponse>? = userLookupTransfer?.userLookup(request, id)
+
+        // verify
         responseMono?.also {
             StepVerifier.create(it)
                 .expectNextMatches { response ->
                     response.data.name == "あしたば"
-                }
+                }.verifyComplete()
         } ?: run {
             fail("テスト失敗")
         }
-
+        wireMockServer.verify(
+            getRequestedFor(urlPathEqualTo("/2/users/by/username/$id"))
+                .withQueryParam("tweet.fields", equalTo("id,author_id,public_metrics"))
+                .withQueryParam("user.fields", equalTo("created_at,id,username,public_metrics"))
+        )
     }
 }

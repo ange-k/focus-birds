@@ -47,7 +47,7 @@ class UserTimeLineTransferTests(
             StepVerifier.create(it)
                 .expectNextMatches { response ->
                     response.size == 49
-                }
+                }.verifyComplete()
         } ?: run {
             fail("テスト失敗")
         }
