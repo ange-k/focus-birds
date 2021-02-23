@@ -8,6 +8,7 @@ twitter-apiを利用したnative-apiをインフラストラクチャ層で提�
 
 # test
 ## wiremock
-TwitterAPIの型テストが主
+TwitterAPIの型テストが主. 
+[verify](http://wiremock.org/docs/verifying/)
 ### mappingの設定
 正常系を `src/test/resources/mappings` にマッピング.

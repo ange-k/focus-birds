@@ -1,11 +1,13 @@
 import org.springframework.boot.gradle.plugin.SpringBootPlugin
 import io.spring.gradle.dependencymanagement.dsl.DependencyManagementExtension
+import org.gradle.api.tasks.testing.logging.*
 
 plugins {
   id("org.springframework.boot") version "2.4.2" apply false
   id("org.jetbrains.kotlin.jvm") version "1.4.21"
   id("org.jetbrains.kotlin.plugin.spring") version "1.4.21"
   id("org.jetbrains.kotlin.kapt") version "1.4.21"
+  jacoco
 }
 
 allprojects {
@@ -43,6 +45,16 @@ subprojects {
     }
     test {
       useJUnitPlatform()
+      testLogging {
+        showStandardStreams = false
+        showCauses = true
+        exceptionFormat = TestExceptionFormat.FULL
+        events(
+          TestLogEvent.PASSED,
+          TestLogEvent.FAILED,
+          TestLogEvent.SKIPPED
+        )
+      }
     }
   }
 
@@ -59,5 +71,36 @@ subprojects {
 
     kapt("org.springframework.boot","spring-boot-configuration-processor","2.4.2")
     compileOnly("org.springframework.boot:spring-boot-configuration-processor")
+  }
+}
+
+// for report
+jacoco {
+  toolVersion = "0.8.6"
+}
+
+tasks.create("jacocoMerge", JacocoMerge::class) {
+  group = "Reporting"
+  gradle.afterProject {
+    if(rootProject != this && plugins.hasPlugin("jacoco")) {
+      executionData("${buildDir}/jacoco/test.exec")
+    }
+  }
+}
+
+tasks.create("jacocoMergedReport", JacocoReport::class) {
+  group = "Reporting"
+  dependsOn("jacocoMerge")
+
+  gradle.afterProject {
+    if(project.rootProject != this && project.plugins.hasPlugin("jacoco")) {
+      sourceDirectories.from += "${projectDir}/src/main/kotlin"
+      classDirectories.from.addAll(fileTree("${buildDir}/classes/kotlin/main"))
+    }
+  }
+  executionData(tasks.named<JacocoMerge>("jacocoMerge").get().destinationFile)
+  reports {
+    xml.isEnabled = true
+    html.isEnabled = true
   }
 }
