@@ -18,7 +18,7 @@ class SampleTaskJobConfig(
     }
 
     @Bean(name = [SAMPLE_JOB])
-    fun sampleJob() : Job {
+    fun sampleJob(): Job {
         return jobBuilderFactory.get(SAMPLE_JOB)
             .incrementer(RunIdIncrementer())
             .start(sampleTaskStep)

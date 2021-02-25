@@ -15,7 +15,7 @@ class SampleTaskConfig(
         const val SAMPLE_TASK = "sampleTaskStep"
     }
 
-    @Bean(name= [SAMPLE_TASK])
+    @Bean(name = [SAMPLE_TASK])
     fun sampleTaskStep(): Step {
         return stepBuilderFactory.get(SAMPLE_TASK)
             .tasklet(sampleTasklet)

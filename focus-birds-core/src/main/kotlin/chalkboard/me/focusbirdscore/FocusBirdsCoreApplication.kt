@@ -10,8 +10,8 @@ import org.springframework.boot.context.properties.ConfigurationPropertiesScan
 class FocusBirdsCoreApplication
 
 fun main(args: Array<String>) {
-	SpringApplicationBuilder()
-		.sources(FocusBirdsCoreApplication::class.java)
-		.web(WebApplicationType.NONE)
-		.run(*args)
+    SpringApplicationBuilder()
+        .sources(FocusBirdsCoreApplication::class.java)
+        .web(WebApplicationType.NONE)
+        .run(*args)
 }

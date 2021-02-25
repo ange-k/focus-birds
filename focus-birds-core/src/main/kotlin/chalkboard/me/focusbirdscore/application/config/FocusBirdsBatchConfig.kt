@@ -17,8 +17,7 @@ class FocusBirdsBatchConfig : DefaultBatchConfigurer() {
     }
 
     @Bean
-    fun clock() : Clock {
+    fun clock(): Clock {
         return Clock.system(ZoneId.of("Asia/Tokyo"))
     }
-
 }
