@@ -1,12 +1,12 @@
 {
   "name": "ユーザータイムラインの取得",
   "request": {
-    "urlPattern": "/1.1/statuses/home_timeline.json",
+    "urlPattern": "/1.1/statuses/user_timeline.json?.*",
     "method": "GET"
   },
   "response": {
     "status": 200,
-    "bodyFileName": "/timeline/user.json",
+    "bodyFileName": "timeline/user.json",
     "headers": {
       "Content-Type": "application/json; charset=UTF-8"
     }
