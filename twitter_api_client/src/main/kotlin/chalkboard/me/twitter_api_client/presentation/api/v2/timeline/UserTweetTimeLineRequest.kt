@@ -1,11 +1,11 @@
 package chalkboard.me.twitter_api_client.presentation.api.v2.timeline
 
-import chalkboard.me.twitter_api_client.domain.model.nativeapi.timeline.Exclude
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.expansions.timeline.UserTimelineExpansion
-import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.*
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.* // ktlint-disable no-wildcard-imports
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.queryfields.FieldsQueryParameter
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.queryfields.RequestQueries
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.queryfields.RequestQuery
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.timeline.Exclude
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.timeline.MaxResults
 import chalkboard.me.valueobject.domain.type.datetime.DateTime
 import org.springframework.util.MultiValueMap
@@ -14,22 +14,22 @@ import org.springframework.util.MultiValueMap
  * Version2, user timeline request.
  */
 data class UserTweetTimeLineRequest(
-    private val userId: String, // パスパラメータ
-    private val endTime: DateTime?,
-    private val excludes: List<Exclude>,
-    private val userTimelineExpansions: List<UserTimelineExpansion>,
-    private val maxResults: MaxResults?,
-    private val mediaFields: List<MediaField>,
-    private val paginationToken: String?, // responseのNextTokenに対応している
-    private val placeFields: List<PlaceField>,
-    private val pollFields: List<PollField>,
-    private val sinceId: String?,
-    private val startTime: DateTime?,
-    private val tweetFields: List<TweetField>,
-    private val untilId: String?,
-    private val userFields: List<UserField>,
-    ) {
-    fun queryParam() : MultiValueMap<String, String> {
+    val userId: String, // パスパラメータ
+    var endTime: DateTime? = null, // 最新のUTCタイムスタンプ
+    var excludes: List<Exclude> = emptyList(), // レスポンスから除外するもの
+    var userTimelineExpansions: List<UserTimelineExpansion> = emptyList(), // 追加で要求するデータ
+    var maxResults: MaxResults? = null, // 最大件数
+    var mediaFields: List<MediaField> = emptyList(), // メディアフィールドの追加
+    var paginationToken: String? = null, // responseのNextTokenに対応している
+    var placeFields: List<PlaceField> = emptyList(),
+    var pollFields: List<PollField> = emptyList(),
+    var sinceId: String? = null,
+    var startTime: DateTime? = null,
+    var tweetFields: List<TweetField> = emptyList(),
+    var untilId: String? = null,
+    var userFields: List<UserField> = emptyList(),
+) {
+    fun queryParam(): MultiValueMap<String, String> {
         return FieldsQueryParameter.from(
             RequestQuery("end_time", endTime?.toStringIso8601()),
             RequestQueries("exclude", excludes),

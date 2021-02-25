@@ -1,0 +1,1834 @@
+{
+  "data": [
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "継承を使いこなせる人間はいるだろうけど、使いこなし続けられるチームあるとはちょっとおもえないかな〜",
+      "created_at": "2021-02-22T00:52:09.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1363652765331853314"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "これ使ってるセンサほんとなら優秀なので是非集まって欲しいところ\n\n持ち運び簡単確かな性能の小型充電式CO2花粉空気測定器 - クラウドファンディングCAMPFIRE https://t.co/4IkOeFtpZD #クラウドファンディングCAMPFIRE @campfirejpより",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 107,
+            "end": 127,
+            "tag": "クラウドファンディングCAMPFIRE"
+          }
+        ],
+        "urls": [
+          {
+            "start": 83,
+            "end": 106,
+            "url": "https://t.co/4IkOeFtpZD",
+            "expanded_url": "https://camp-fire.jp/projects/view/365138",
+            "display_url": "camp-fire.jp/projects/view/…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1363343586771673089/3zKeRBxT?format=jpg&name=orig",
+                "width": 560,
+                "height": 373
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1363343586771673089/3zKeRBxT?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "持ち運び簡単確かな性能の小型充電式CO2花粉空気測定器",
+            "description": "目に見えない空気を数値と色で識別。密の空間（オフィス、会議室、店舗、ご家庭など）で、CO2・温度・湿度・PM2.5（煙、バクテリア、アレル物質、黄砂など）・PM10（花粉、ホコリ、カビなど）",
+            "unwound_url": "https://camp-fire.jp/projects/view/365138"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 128,
+            "end": 139,
+            "username": "CAMPFIREjp"
+          }
+        ]
+      },
+      "created_at": "2021-02-22T00:38:02.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1363649212005552129"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "つまがとても天然ボケ\n\n本人にそれを指摘すると、この天然ボケは作られた天然ボケだから、なんて言ってまたボケを重ねてくるのでとても手強い",
+      "created_at": "2021-02-19T11:34:33.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1362727266535415809"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "退職された人たちのテスト環境ばっか使うし、氏名入れるような時も退職した人の名前で入れている。\n\nレビュー会で部長にテストエビデンス見せてると、懐かしいな、、という声が上がり部長の攻撃力が下がる。",
+      "created_at": "2021-02-18T07:18:55.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1362300546275708930"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "MMTはもうお腹いっぱいなのだが、為替と信用に関してきちんと説明してる例を見たことないんだよな〜\n\n自国通貨建でできることはともかく、輸入に頼ってるところはドル建てなわけで、円安に行きすぎると死ぬよね",
+      "created_at": "2021-02-14T00:13:45.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1360744000366419970"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 9,
+            "end": 10,
+            "probability": 0.8547,
+            "type": "Place",
+            "normalized_text": "大阪"
+          }
+        ]
+      },
+      "text": "揺れるのも怖いが、大阪揺れなすぎてそれもこわい\n\n絶対倒せない相手から剣の舞連打されてる感",
+      "created_at": "2021-02-13T14:18:18.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1360594148923854857"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "僕の所属組織に必要なのは、エンジニアリングの前に組織論とかチームビルディングの知見だなぁと。\n\n複数のシステムを、7人くらいのチームで分業すると、チームの中で縦割り組織になってしまう上、スケジュール詰められると属人化で効率尖らせて何とかするからチーム機能が死に至る。",
+      "created_at": "2021-02-13T04:02:32.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1360439186944270336"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "のんびりやってようやく世界ランク6ですよ",
+      "created_at": "2021-02-13T02:07:15.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1360410173173473282"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "火災、地震保険に入ってなかったので申し込むなど",
+      "created_at": "2021-02-12T12:14:49.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1360200686433050627"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 15,
+            "end": 21,
+            "probability": 0.2583,
+            "type": "Person",
+            "normalized_text": "アーロンチェア"
+          }
+        ]
+      },
+      "text": "散々言われてたことではあるが、アーロンチェアはこの時期だとケツが寒い",
+      "created_at": "2021-02-12T02:12:42.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1360049158292295683"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "どうしてもというなら6AでもUTPでこういうのあるし。\nhttps://t.co/UCKbOCqq7N",
+      "entities": {
+        "urls": [
+          {
+            "start": 28,
+            "end": 51,
+            "url": "https://t.co/UCKbOCqq7N",
+            "expanded_url": "https://amzn.to/3d03UpO",
+            "display_url": "amzn.to/3d03UpO",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1359884491301351432/F1frD0b2?format=png&name=orig",
+                "width": 600,
+                "height": 315
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1359884491301351432/F1frD0b2?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "パンドウイット LANケーブル CAT6A 超極細 プロ仕様 1m 紫 UTP28X1MVL",
+            "description": "パンドウイット LANケーブル CAT6A 超極細 プロ仕様 1m 紫 UTP28X1MVL",
+            "unwound_url": "https://www.amazon.co.jp/%E3%83%91%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A4%E3%83%83%E3%83%88-LAN%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB-CAT6A-%E3%83%97%E3%83%AD%E4%BB%95%E6%A7%98-UTP28X1MVL/dp/B01MZFWRSH?&linkCode=sl1&tag=angelicakei06-22&linkId=5fc8eef0e06bec445e9e6c794828734b&language=ja_JP&ref_=as_li_ss_tl"
+          }
+        ]
+      },
+      "created_at": "2021-02-11T15:18:22.000Z",
+      "source": "Twitter Web App",
+      "id": "1359884490760331267"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "一般家庭はLAN束ねるほどないので、一般論を論じるときにCat6Aのノイズ耐性の話を持ち出すのは疑問だなぁ\nあって4-6ポートのスイッチングハブまでよ",
+      "created_at": "2021-02-11T15:03:22.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1359880716956258305"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "古いedgeさん殺されるのか〜\nこの判断は素晴らしい",
+      "created_at": "2021-02-07T00:47:08.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1358215683721449472"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "森某氏の失言癖は国民は身をもって知っているはずなので国内的には予想通りなのではないか",
+      "created_at": "2021-02-04T06:22:46.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1357212984670527489"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "これをオンスケっていうの何なの？おかしいと思う僕がおかしいのかい？ https://t.co/A5vJEfE7UO",
+      "entities": {
+        "urls": [
+          {
+            "start": 34,
+            "end": 57,
+            "url": "https://t.co/A5vJEfE7UO",
+            "expanded_url": "https://twitter.com/Me109E3_jp/status/1356905204428378112/photo/1",
+            "display_url": "pic.twitter.com/A5vJEfE7UO"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1356905200313724928"
+        ]
+      },
+      "created_at": "2021-02-03T09:59:45.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1356905204428378112"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "原神は可愛い子に武器持たせてブンブンしたい欲を満たせて満足したのであとはのんびりしておきたい",
+      "created_at": "2021-01-31T12:42:29.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1355858993751617538"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "text": "異動願が通過してひとまずこの部署からは離れそう\n何やるか決まるのは三末だなあ",
+      "created_at": "2021-01-28T07:20:52.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1354690892125204481"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "肉屋で適当に肉を1.5キロくらいの角切りを買ってシシカバブの容量で漬け込んどくと8人前分はそれで生きれる。\n鉄串突っ込んでグリルで焼くだけ。",
+      "created_at": "2021-01-25T23:55:13.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1353853963779534848"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "誰かに説明を頼んだ時は最低限でもいいから基礎知識を身につけて会議に挑めばいい\nマニュアル読んだらわかるような質問を連発するのはお互いに良くないよっておもう",
+      "created_at": "2021-01-25T07:07:40.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1353600409651167233"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "シムシティをやったことのある者だけが政治家に石を投げよ",
+      "created_at": "2021-01-23T11:59:05.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1352948968905293830"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "モノリスをマイクロサービスにした結果、繋ぎ先のAPIがバグっていてこっちもバグるなんてのはよくあると思う\n\nそこでモノリスは動くのにマイクロサービスにしたらなぜ動かないのか、と思う気持ちもわかるが、機能を委譲してんのにつなぎ先のAPIの正しさをどうにか判定しようとする思考は捨てて欲しい",
+      "created_at": "2021-01-22T00:42:40.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1352416355794866177"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 95,
+            "end": 96,
+            "probability": 0.7265,
+            "type": "Place",
+            "normalized_text": "日本"
+          }
+        ]
+      },
+      "text": "Chatworkがそれなりに長い時間をかけて\n分散システムの複雑さと事業ドメインに向き合うことができる会社だってだけでも魅力がある。\nただ動くだけのシステムは競争力を無くしていくからなあ。\n日本の多くの会社はそういうとこの投資が下手だし、エンジニアはやりたいことドリブンに陥りがち。",
+      "created_at": "2021-01-17T07:14:39.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1350703061023420417"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "原神に手を出してしまったけど、気を抜くとpay to winに引きずり込まれそう。\n良くも悪くもよく出来てる。",
+      "created_at": "2021-01-10T08:48:53.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1348190060043124736"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "27cmのフライパンで無理やり作るIQ3のそば粉ガレット(3人前)\n\n畳めない… https://t.co/bOabJzWjsR",
+      "entities": {
+        "urls": [
+          {
+            "start": 41,
+            "end": 64,
+            "url": "https://t.co/bOabJzWjsR",
+            "expanded_url": "https://twitter.com/Me109E3_jp/status/1348096142693654531/photo/1",
+            "display_url": "pic.twitter.com/bOabJzWjsR"
+          },
+          {
+            "start": 41,
+            "end": 64,
+            "url": "https://t.co/bOabJzWjsR",
+            "expanded_url": "https://twitter.com/Me109E3_jp/status/1348096142693654531/photo/1",
+            "display_url": "pic.twitter.com/bOabJzWjsR"
+          },
+          {
+            "start": 41,
+            "end": 64,
+            "url": "https://t.co/bOabJzWjsR",
+            "expanded_url": "https://twitter.com/Me109E3_jp/status/1348096142693654531/photo/1",
+            "display_url": "pic.twitter.com/bOabJzWjsR"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1348096136398032896",
+          "3_1348096136398061570",
+          "3_1348096136544882688"
+        ]
+      },
+      "created_at": "2021-01-10T02:35:41.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1348096142693654531"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 6,
+            "probability": 0.6177,
+            "type": "Product",
+            "normalized_text": "Twitter"
+          }
+        ]
+      },
+      "text": "Twitter歴12年はそりゃ怖いわなと思って自分の見たら12年だった時の顔",
+      "created_at": "2021-01-08T13:06:43.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1347530171335675904"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "外国みたいな対応を〜って言ってる人、本当に政府が人権に干渉してもいいと思ってる思想の人なのか気になるw",
+      "created_at": "2021-01-07T08:01:40.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1347091014704525314"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "妻がエアコン嫌いなくせに寒がりだから熱線入りの着ぐるみでも買おうかと思ったが怒られるな。まじめなのに。",
+      "created_at": "2021-01-07T06:22:52.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1347066153781272577"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 67,
+            "end": 73,
+            "probability": 0.8275,
+            "type": "Product",
+            "normalized_text": "Twitter"
+          },
+          {
+            "start": 90,
+            "end": 93,
+            "probability": 0.9368,
+            "type": "Product",
+            "normalized_text": "LINE"
+          }
+        ],
+        "urls": [
+          {
+            "start": 122,
+            "end": 145,
+            "url": "https://t.co/r07Ueffv82",
+            "expanded_url": "https://twitter.com/yashi09/status/1346061721102741506",
+            "display_url": "twitter.com/yashi09/status…"
+          }
+        ]
+      },
+      "text": "お金配りおじさんは世界に一人なんだよなぁというのがよく表せてる(?\n\nこれでなくても高額プレゼントとかも騙される人が多い印象。\nいまやTwitterの公式マークも当てにならないし、LINEもいくらでも名前変えれるし、疑う心を持って欲しさあるな https://t.co/r07Ueffv82",
+      "created_at": "2021-01-04T23:41:02.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1346240252478853121"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "が、これで3000円台ってのはイカれた値段設定だなあ。すごい。",
+      "created_at": "2021-01-03T13:23:56.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1345722566002974721"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "atomcamでドアスコープにカメラつけれんかとやってみたが、倍率の都合上ダメだー",
+      "created_at": "2021-01-03T13:20:40.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1345721741025316864"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "大手自社開発だけど完全に内製してるかどうかの差だよねぇ。\n個人的にはいらないんだよ、外注なんて。ビジネススキームで必要とされるのわかるけど。",
+      "created_at": "2021-01-03T00:49:24.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1345532681098936321"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 98,
+            "end": 100,
+            "probability": 0.7206,
+            "type": "Organization",
+            "normalized_text": "任天堂"
+          }
+        ]
+      },
+      "text": "ベンチャーは作るものに対して最適な言語を、Sier等を使うような大手では人材をスケールしやすい言語を使う\n\nGoの担い手100人集めるのとJavaを100人集めるのどっちが楽かって話だね\n\nだから任天堂みたいに大規模なのにエンジニアが好きな言語選んでやってるとこは貴重だし羨ましい",
+      "created_at": "2021-01-03T00:46:58.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1345532068973854720"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "これで年明けを迎えましたうまかっ　です https://t.co/dqb1NVScIC",
+      "entities": {
+        "urls": [
+          {
+            "start": 20,
+            "end": 43,
+            "url": "https://t.co/dqb1NVScIC",
+            "expanded_url": "https://twitter.com/Me109E3_jp/status/1344832042974863362/photo/1",
+            "display_url": "pic.twitter.com/dqb1NVScIC"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1344832038067605505"
+        ]
+      },
+      "created_at": "2021-01-01T02:25:19.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1344832042974863362"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "年末年始はおとなしくこれを読んでいます・・・\nhttps://t.co/m5yneQCUb2",
+      "entities": {
+        "urls": [
+          {
+            "start": 23,
+            "end": 46,
+            "url": "https://t.co/m5yneQCUb2",
+            "expanded_url": "https://amzn.to/34ZJKaB",
+            "display_url": "amzn.to/34ZJKaB",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1344513260653924352/PDuWW25D?format=png&name=orig",
+                "width": 600,
+                "height": 315
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1344513260653924352/PDuWW25D?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Hands-On Reactive Programming in Spring 5: Build cloud-ready, reactive systems with Spring 5 and Project Reactor (English Edition)",
+            "description": "Hands-On Reactive Programming in Spring 5: Build cloud-ready, reactive systems with Spring 5 and Project Reactor (English Edition) [Kindle edition] by Dokuka, Oleh, Lozynskyi, Igor. Download it once and read it on your Kindle device, PC, phones or tablets. Use features like bookmarks, note taking...",
+            "unwound_url": "https://www.amazon.co.jp/gp/product/B076QCBXZ2/ref=as_li_ss_shr?ie=UTF8&psc=1&linkCode=shr&tag=angelicakei06-22&language=ja_JP&creativeASIN=B076QCBXZ2&camp=1207&creative=8411&linkId=ed177bae228a66a869555043b3121d11"
+          }
+        ]
+      },
+      "created_at": "2020-12-31T05:18:35.000Z",
+      "source": "Twitter Web App",
+      "id": "1344513260121280512"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "text": "クラウドプラットフォームとCICD, CCNAやら初歩のDB構築スキル程度なら僕でも持っているので特にインフラエンジニアの必要性を感じないんだけど、弊社みたいに万req/1sとか10Gbps回線じゃ足りんとか、個人情報を保護するためにネットワークセグメントを分離とか言い出すといてくれないと死ぬ",
+      "created_at": "2020-12-31T04:41:15.000Z",
+      "source": "Twitter Web App",
+      "id": "1344503863429066754"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "相変わらずビールは何を飲んでもまずい判定なので苦味がダメなんだろうな\nDNAによる傾向でも苦味を強く感じると出てたし野菜が苦手なのも仕方ないさ",
+      "created_at": "2020-12-30T13:39:07.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1344276836067364864"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 32,
+            "end": 33,
+            "probability": 0.5857,
+            "type": "Person",
+            "normalized_text": "ジン"
+          },
+          {
+            "start": 35,
+            "end": 38,
+            "probability": 0.628,
+            "type": "Person",
+            "normalized_text": "ウォッカ"
+          }
+        ]
+      },
+      "text": "ジンで六っていうのが出てますが、これでギムレット作ると美味しい(ジン、ウォッカ、ラム系統のスピリッツ好きには)",
+      "created_at": "2020-12-30T13:37:48.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1344276502855122946"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "ほんとクックパッドはクソになったなあと。これわかる。\n\n自分はシェフごはん派。\n万人受けはしないが、用途の狭いスパイスや調味料がガンガン増えていってしまったり、料理で1日終わるのが楽しいならおすすめ。 https://t.co/KurIMEM2BI",
+      "entities": {
+        "urls": [
+          {
+            "start": 101,
+            "end": 124,
+            "url": "https://t.co/KurIMEM2BI",
+            "expanded_url": "https://twitter.com/karno/status/1344098592408027137",
+            "display_url": "twitter.com/karno/status/1…"
+          }
+        ]
+      },
+      "created_at": "2020-12-30T10:08:22.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1344223796509564928"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 1,
+            "probability": 0.4841,
+            "type": "Place",
+            "normalized_text": "タイ"
+          }
+        ]
+      },
+      "text": "タイを二匹三枚おろし、ぶり背中1/2をくさくならないように加工、牛肉1.2キロをシシカバブ用に作ったマリネ液に投下、ステーキ用のロース肉を切り分けて真空パックなどしてました\n全部で20人前くらいありそうですがこれで8000円くらいなので商店街すごい",
+      "created_at": "2020-12-29T10:01:24.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1343859657593372672"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "養殖タイが1枚1300円でかえた。卸売業者さんに聞いた話では正月でも魚が全く売れず叩き売りされてるとか。",
+      "created_at": "2020-12-29T01:23:45.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1343729384021082114"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "text": "平日もリモートワークだから昼夜の買い物に行くし、休日と妻と買い物に行っていると、マンションの清掃員の方にめちゃくちゃ会う。\n\n多分僕は妻のヒモと思われてる気がする。",
+      "created_at": "2020-12-28T05:19:42.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1343426375588274176"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 41,
+            "end": 44,
+            "probability": 0.8402,
+            "type": "Place",
+            "normalized_text": "泉佐野市"
+          }
+        ],
+        "urls": [
+          {
+            "start": 66,
+            "end": 89,
+            "url": "https://t.co/qHOUIBRYRh",
+            "expanded_url": "https://twitter.com/Me109E3_jp/status/1342267081937530887/photo/1",
+            "display_url": "pic.twitter.com/qHOUIBRYRh"
+          }
+        ]
+      },
+      "text": "ふるさと納税でpaypayジャンボ(2等)当たるのバグみたいな話だなって。\nそして泉佐野市相変わらず還元率高くてヘイト集めてそう。 https://t.co/qHOUIBRYRh",
+      "attachments": {
+        "media_keys": [
+          "3_1342267078204510210"
+        ]
+      },
+      "created_at": "2020-12-25T00:33:05.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1342267081937530887"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "しかも大抵は正解の推論を持って聞きに行ってるんだけど、相手は判断基準となる前提の仕様を知らなかったりして答えが出せずに2人して頭の上に？つけてる",
+      "created_at": "2020-12-24T07:43:35.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1342013033770438661"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "仕事経験少ないと、どんな優秀な子でも、相手の持っている情報が自分の持っている情報に対して同等以上であることを前提に相談に行きがちなの見ててかわいい",
+      "created_at": "2020-12-24T07:41:24.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1342012486078267394"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "上司の上司の上司あたりから僕をもう残業させるなという命令が発せられたそうで草\n(下手すると今月45時間超過7回目となるため",
+      "created_at": "2020-12-22T04:09:19.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1341234337186922498"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 30,
+            "end": 32,
+            "probability": 0.3754,
+            "type": "Organization",
+            "normalized_text": "CDC"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 86,
+            "end": 91,
+            "tag": "zenn"
+          }
+        ],
+        "urls": [
+          {
+            "start": 62,
+            "end": 85,
+            "url": "https://t.co/9sa950gayn",
+            "expanded_url": "https://zenn.dev/angelica/articles/3b7ac906f73638",
+            "display_url": "zenn.dev/angelica/artic…"
+          }
+        ]
+      },
+      "text": "\"完全に理解した\"くらいのところにいるので、OpenAPIとCDCの話を書きました。\nチョットワカルまで行きたいですが…\n\nhttps://t.co/9sa950gayn #zenn",
+      "created_at": "2020-12-17T04:56:42.000Z",
+      "source": "Twitter Web App",
+      "id": "1339434320797212677"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "料理苦手、やらない人って美味しいレシピを探せないから、大げさに美味しいレシピを宣伝するだけである程度ヒットしてるのではないか\nとか某人を見て思った。うまいなあ",
+      "created_at": "2020-12-15T23:46:03.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1338993757224534018"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 3,
+            "end": 8,
+            "probability": 0.6918,
+            "type": "Organization",
+            "normalized_text": "oracle"
+          },
+          {
+            "start": 15,
+            "end": 17,
+            "probability": 0.5296,
+            "type": "Organization",
+            "normalized_text": "トヨタ"
+          }
+        ]
+      },
+      "text": "なんでoracleが時価総額でトヨタと同等に並んでるのか考えもしないのか。\nそれとも、何も考えず多くの経営者たち、責任者たちが脳死でoracle選んでると思ってるんだろうかw",
+      "created_at": "2020-12-13T15:03:42.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1338137525324431361"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "text": "ひらめ3000円になります。3.3キロ。 https://t.co/F2B2k9hu6D",
+      "entities": {
+        "urls": [
+          {
+            "start": 21,
+            "end": 44,
+            "url": "https://t.co/F2B2k9hu6D",
+            "expanded_url": "https://twitter.com/Me109E3_jp/status/1337637028242964480/photo/1",
+            "display_url": "pic.twitter.com/F2B2k9hu6D"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1337637021817303046"
+        ]
+      },
+      "created_at": "2020-12-12T05:54:54.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1337637028242964480"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "オートスケールしてれば落ちない\nそんなふうに考えてた時期が俺にもありました…",
+      "created_at": "2020-12-11T13:32:01.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1337389679675502592"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "今が忙しいんだって言い続けて1.5年くらい経過してるので恒常的なワーカーホリックだ",
+      "created_at": "2020-12-11T06:03:44.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1337276864205754369"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "恋愛リアリティショーのCMが流れるたび、虫かごや檻に雄雌を詰めて交配するかを観察しているような気持ちになるんだが僕だけですか。",
+      "created_at": "2020-12-10T11:58:10.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1337003671930822657"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "text": "活き松葉ガニを近郊の魚屋さんで入手した https://t.co/KMKYRrkgPN",
+      "entities": {
+        "urls": [
+          {
+            "start": 20,
+            "end": 43,
+            "url": "https://t.co/KMKYRrkgPN",
+            "expanded_url": "https://twitter.com/Me109E3_jp/status/1335463934032166913/photo/1",
+            "display_url": "pic.twitter.com/KMKYRrkgPN"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1335463929724559365"
+        ]
+      },
+      "created_at": "2020-12-06T05:59:48.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1335463934032166913"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 44,
+            "end": 47,
+            "probability": 0.8106,
+            "type": "Person",
+            "normalized_text": "成瀬さん"
+          },
+          {
+            "start": 53,
+            "end": 57,
+            "probability": 0.5793,
+            "type": "Person",
+            "normalized_text": "じゅんさん"
+          },
+          {
+            "start": 60,
+            "end": 63,
+            "probability": 0.8053,
+            "type": "Person",
+            "normalized_text": "松岡さん"
+          }
+        ]
+      },
+      "text": "わりと今の環境だと技術レベルの向上に関しては天井に当たってるので最近教祖欲しさがある\n\n成瀬さんとか、かとじゅんさんとか松岡さんみたいな人いるの羨ましいね\n\nまだ引っ張るんじゃなくて引っ張られたいお年頃なんですよ",
+      "created_at": "2020-12-01T03:07:12.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1333608557657214978"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "組織に狙われてるのかというくらい個人情報気にかける人がいるが、この世の中生きづらそうだな…。\n\nある程度敏感であるべきだが過敏すぎる。\n\n電子レンジに電話繋げたとき、付近に大型アナログテレビがない限りはそこまで心配しなくていいだろ。",
+      "created_at": "2020-11-27T03:50:43.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1332169958780928001"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "弊社のslackカスタム絵文字力は23786です。",
+      "created_at": "2020-11-27T00:04:44.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1332113089940996097"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "最近の冷蔵庫すごいなー\nチルド室が氷点下8から0℃でキープされてる\n\nどうしても霜取りの温度上昇で食材が痛みやすいんだけどこれは素晴らしい",
+      "created_at": "2020-11-26T14:33:14.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1331969264929017862"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "HTMLはプログラミング言語ではないが、HTML/CSSはチューリング完全なのでプログラミング言語と言っていいと思う\nというかファミコンエミュレータとかできちゃう時点でそう認めるしかないだろ",
+      "created_at": "2020-11-25T14:45:06.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1331609865442103296"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "弊社のバリューわりといいこと書いてんなと思ってんだけど、いかんせん守れてるやつらから居なくなりがち",
+      "created_at": "2020-11-25T14:36:46.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1331607766671130625"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "僕はカメムシ大嫌いで親の仇くらいに思ってるんだけど、サクナヒメのおかげでますますその思いを確かにした",
+      "created_at": "2020-11-24T00:06:58.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1331026486871003137"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "冷蔵庫買い換えたからmy new gearってやってもいいかな\n一応IoTに対応はしてる。あんま意味ないけど",
+      "created_at": "2020-11-23T08:56:59.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1330797483258118145"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "新コロナちゃんは無症状なのと、弱い人に対して急激に殺しにくる特性がすごくマッチしていて、現代医療を崩壊させることを狙ってるのかというとこが怖い。\n専門家がずっと言ってることだが。\n\n自分がへっちゃらでも、事故や急病に対応してもらえなくなること、医療崩壊の怖さは知っとくべきだよ。",
+      "created_at": "2020-11-20T15:42:55.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1329812474904776704"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "あんま未経験エンジニアなのに転職前提のキャリアが当たり前だって公然と胸張っちゃうのはやめた方がいいと思うなぁ。\nまっとうなとこは情報系専門卒、高専卒、情報系大卒、100歩譲って資格持ちじゃないと取らなくなっちゃうよ。\n真っ当じゃないとこは辞める前提で人入れるからどうでもいいだろうしね",
+      "created_at": "2020-11-19T23:38:34.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1329569788230733824"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "外注したものを検品していなかった？\nそれともやられた？",
+      "created_at": "2020-11-16T05:11:23.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1328203993550520321"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "go to eatはあくまで新規予約の付与が終わるのだということが伝えられてない感あるなあ\n未来の予約でもらえる予定のポイントは来店すればもらえるし、今持ってるポイントはそのまま使えるんじゃよ",
+      "created_at": "2020-11-14T02:37:30.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1327440492846407681"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "普段1rpsのところ95rps食らったけどある程度元気に動いてて気持ち悪ーってなってる\n仕様上の天井、ボトルネックが見えたけど…",
+      "created_at": "2020-11-13T13:20:12.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1327239844444082178"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 15,
+            "end": 17,
+            "probability": 0.5727,
+            "type": "Product",
+            "normalized_text": "mac"
+          }
+        ]
+      },
+      "text": "たしかに何も考えずARM入ったmac使って軒並み環境構築エラー出して困るビギナー溢れそう",
+      "created_at": "2020-11-12T06:52:21.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1326779850452066304"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "fleetは著名人が使う分には面白いけど一般ピーポーはお呼びじゃねえってなりそう",
+      "created_at": "2020-11-11T04:30:12.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1326381689237610501"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 12,
+            "probability": 0.3419,
+            "type": "Product",
+            "normalized_text": "youtube music"
+          }
+        ]
+      },
+      "text": "youtube musicのサジェストが複数のグループでされるようになっていて面白いな、とは思ったが精度落ちたなー",
+      "created_at": "2020-11-10T09:21:34.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1326092628740304906"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.3377,
+            "type": "Organization",
+            "normalized_text": "大阪市民"
+          },
+          {
+            "start": 39,
+            "end": 42,
+            "probability": 0.5274,
+            "type": "Organization",
+            "normalized_text": "大阪自民"
+          },
+          {
+            "start": 57,
+            "end": 58,
+            "probability": 0.624,
+            "type": "Organization",
+            "normalized_text": "自民"
+          }
+        ]
+      },
+      "text": "大阪市民はこれからも府知事と市長の仲を気にして投票しましょうねってことね。\n\n大阪自民あれだけ無能なのに支持政党が自民の人多いんだな。国会の自民党支持だけならわかるけど。",
+      "created_at": "2020-11-01T14:02:09.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1322901745467486209"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "ようやくnuroを導入するらしいので通ったらDMZを構築してお高いルータを繋がなきゃ",
+      "created_at": "2020-10-29T12:13:20.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1321787200330063873"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "text": "システムがいきなり今までの10倍を超えたアクセスに常に晒されるようになったわけだが、それでも安定して稼働しているのを見るとなんで動いてんだろうなって気分になる",
+      "created_at": "2020-10-23T10:33:07.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1319587649514991617"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "スイッチが安くなったので家の中のネットワーク網に限っては隅から隅まで10Gbpsを実現したが、対応してるデバイスがまだない",
+      "created_at": "2020-10-21T13:54:23.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1318913525541076992"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "単体テストに対して安易なカバレッジルールの強制は、範囲クソでかコンポーネントテストでカバレッジを稼いで痒いところだけテスト追加して回避とかが始まる\n本質からズレてくるので導入にはお勧めできないかなあ",
+      "created_at": "2020-10-20T14:53:56.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1318566124980563968"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "マトウダイとサメガレイを3枚と5枚に下ろして、加工したてのイクラももらったので醤油漬けにした。",
+      "created_at": "2020-10-18T07:35:28.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1317731004124069890"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 21,
+            "end": 25,
+            "probability": 0.4131,
+            "type": "Product",
+            "normalized_text": "slack"
+          }
+        ]
+      },
+      "text": "弊社が他社に比べて絶対負けないなと思うのはslackのemojiの数ですね",
+      "created_at": "2020-10-13T15:16:28.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1316035080658194437"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 18,
+            "end": 22,
+            "probability": 0.5408,
+            "type": "Product",
+            "normalized_text": "slack"
+          }
+        ]
+      },
+      "text": "自社サービスに憧れてる駆け出したちをslackのユーザーお問い合わせ窓口チャンネルに案内して闇落ちさせたい",
+      "created_at": "2020-10-10T08:32:54.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1314846357576769537"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "lanケーブルはやっぱり6Aですよね",
+      "created_at": "2020-10-08T23:29:12.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1314347140546617344"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "農林水産省が何考えてるのかわからんのはそうだし、もう2度と関わりたくないですねw",
+      "created_at": "2020-10-06T11:04:49.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1313435033693163520"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "1日で12GBのログができてる…だと？",
+      "created_at": "2020-10-05T14:45:35.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1313128203460866051"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 6,
+        "quote_count": 1
+      },
+      "text": "僕はこれスペシャリストじゃなくてただの老害だと思うw https://t.co/jrHtLC9oxu",
+      "entities": {
+        "urls": [
+          {
+            "start": 27,
+            "end": 50,
+            "url": "https://t.co/jrHtLC9oxu",
+            "expanded_url": "https://twitter.com/flsc_taro/status/1312606293128089600",
+            "display_url": "twitter.com/flsc_taro/stat…"
+          }
+        ]
+      },
+      "created_at": "2020-10-04T06:20:25.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1312638688652791809"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "そもそも結果としてフルスタックになってる奴らがほぼのはずなのでその経験値をバカにできるわけないんだなー。\n目指してなるもんじゃなくないかな、あれは。",
+      "created_at": "2020-10-04T05:57:27.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1312632908180410369"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "フルスタックエンジニアを器用貧乏って言ってるのは謙遜使ってる本人たちだよ\n彼らはスペシャリストを見て言っており、つまり、偏差値70オーバーと比較して貧乏だって言ってるので勘違いしてはいけない",
+      "created_at": "2020-10-04T05:56:32.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1312632676952625157"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 7,
+        "quote_count": 0
+      },
+      "text": "今日が結婚記念日なのですが、結婚して5年で付き合い始めてから20年、人生の66.7%を一緒に過ごしてることになりました",
+      "created_at": "2020-10-03T03:44:20.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1312237021549617153"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "某天堂のコーディングテストは最初FizzBuzzだったが5問目はシーザー暗号の解読でしたな\ninが暗号文でoutが解読文。対象は英数字のみ。\n\n案外優しい。",
+      "created_at": "2020-10-01T14:47:24.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1311679109421060097"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "text": "ひとまずリリース完了。go to eat使ってくれー。",
+      "created_at": "2020-09-30T16:13:06.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1311338289165598725"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.298,
+            "type": "Organization",
+            "normalized_text": "AWA"
+          }
+        ]
+      },
+      "text": "AWAなんてもんないよ…",
+      "created_at": "2020-09-29T13:06:55.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1310929047333998593"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 7,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.4392,
+            "type": "Organization",
+            "normalized_text": "AWS"
+          },
+          {
+            "start": 19,
+            "end": 21,
+            "probability": 0.4118,
+            "type": "Organization",
+            "normalized_text": "AWA"
+          }
+        ],
+        "urls": [
+          {
+            "start": 113,
+            "end": 136,
+            "url": "https://t.co/NbqaruPmxc",
+            "expanded_url": "https://twitter.com/flsc_taro/status/1310885796296241152",
+            "display_url": "twitter.com/flsc_taro/stat…"
+          }
+        ]
+      },
+      "text": "AWSの面接官にAWSが使えることや、AWAの資格があることは御社にとって重要ですか？って聞いたら重要じゃないよって返ってくるわけですよ。\nwebも同じだと思ってて無邪気にフレームワークぶん回すのが専門性じゃあないんだよね。 https://t.co/NbqaruPmxc",
+      "created_at": "2020-09-29T13:06:06.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1310928843016790017"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "ADしんでる…\n\nhttps://t.co/qwELjLFXb2",
+      "entities": {
+        "urls": [
+          {
+            "start": 9,
+            "end": 32,
+            "url": "https://t.co/qwELjLFXb2",
+            "expanded_url": "https://status.azure.com/ja-jp/status",
+            "display_url": "status.azure.com/ja-jp/status"
+          }
+        ]
+      },
+      "created_at": "2020-09-29T00:06:00.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1310732522699943938"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "どっちが偉いってわけでもないけど、エンジニアの平均レベルが高いとこでやってる運用と、バラついてるとこでやる運用全く違うのでついったー難しい。\nDDD界隈の設計思想はある程度レベル高くないと話にならないからな",
+      "created_at": "2020-09-27T04:50:48.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1310079420699271168"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "マンション敷地内が完全に森なので自転車整備するにも虫除けスプレーしないとたいへん",
+      "created_at": "2020-09-25T23:40:38.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1309638978266562561"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.5313,
+            "type": "Organization",
+            "normalized_text": "朝日新聞"
+          }
+        ]
+      },
+      "text": "朝日新聞の営業でおじいちゃんがマンションにインターホンで総当たりしかけてるww",
+      "created_at": "2020-09-24T09:13:25.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1309058347241484290"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "なんで更新要件のないテーブルにupdateAtなんてもんを作るんだ？\n\n特に履歴テーブルに更新日つけるの正気ですか？？\n歴史改竄者はラノベくらいにしてくれませんか？？？",
+      "created_at": "2020-09-23T08:25:45.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1308683961694994432"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "遠目に見たら普通だが近くで見るとわりと狂気だった",
+      "created_at": "2020-09-20T05:25:59.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1307551557467086849"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "text": "https://t.co/MIO8g3nV9q",
+      "entities": {
+        "urls": [
+          {
+            "start": 0,
+            "end": 23,
+            "url": "https://t.co/MIO8g3nV9q",
+            "expanded_url": "https://twitter.com/Me109E3_jp/status/1307540667149611008/photo/1",
+            "display_url": "pic.twitter.com/MIO8g3nV9q"
+          }
+        ]
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1307540659306336256"
+        ]
+      },
+      "created_at": "2020-09-20T04:42:42.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1307540667149611008"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 11,
+            "end": 12,
+            "probability": 0.98,
+            "type": "Place",
+            "normalized_text": "富山"
+          }
+        ]
+      },
+      "text": "義兄に巻き込まれる形で富山まで来てしまったのでのんびりしとこう",
+      "created_at": "2020-09-19T01:41:40.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1307132719160324096"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "漢字検定準一級に食い込む程度に漢字を読めるのに、書こうとすると3級すら危ういです。",
+      "created_at": "2020-09-19T01:03:49.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1307123194906767360"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "確定版仕様が出てこないから少し落ちついた\nまあつまりでてきたらまた燃えるわけですけど",
+      "created_at": "2020-09-17T13:43:23.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1306589570436218883"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "コンサル会社の言うX日中ってマジであてにならないなー\n23:59までセーフとかならかわいいもので平然と遅れるかクソ品質で書類持ってくるのだが",
+      "created_at": "2020-09-17T09:44:40.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1306529495306829824"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "まあ僕は食べログが1位かと思ってましたし、今でもそう思ってますけども。",
+      "created_at": "2020-09-16T23:03:05.000Z",
+      "source": "Twitter for iPhone",
+      "id": "1306368033695260673"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1356905200313724928",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EtSyFyqUcAAzX5f.jpg"
+      },
+      {
+        "media_key": "3_1348096136398032896",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ErVmSyUU0AAEe3n.jpg"
+      },
+      {
+        "media_key": "3_1348096136398061570",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ErVmSyUVQAIN0R_.jpg"
+      },
+      {
+        "media_key": "3_1348096136544882688",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/ErVmSy3VkAAi1Ba.jpg"
+      },
+      {
+        "media_key": "3_1344832038067605505",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EqnNnQeVkAEv-bL.jpg"
+      },
+      {
+        "media_key": "3_1342267078204510210",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EqCwy8YU0AIyZr8.jpg"
+      },
+      {
+        "media_key": "3_1337637021817303046",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EpA9yMPU8AY2QJK.jpg"
+      },
+      {
+        "media_key": "3_1335463929724559365",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EoiFXlWUYAUprp4.jpg"
+      },
+      {
+        "media_key": "3_1307540659306336256",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EiVRTU9VkAAPUyg.jpg"
+      }
+    ]
+  },
+  "meta": {
+    "oldest_id": "1306368033695260673",
+    "newest_id": "1363652765331853314",
+    "result_count": 100,
+    "next_token": "7140dibdnow9c7btw3w1046ww3dcb3q9bd8nt2i4wqjw3"
+  }
+}

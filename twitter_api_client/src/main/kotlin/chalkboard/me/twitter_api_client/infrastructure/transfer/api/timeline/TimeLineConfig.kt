@@ -15,20 +15,29 @@ import java.util.concurrent.TimeUnit
 @Configuration
 @ConfigurationProperties(prefix = "twitter-api.timeline")
 class TimeLineConfig(
-    private val twitterConfig : TwitterConfig
+    private val twitterConfig: TwitterConfig
 ) {
     lateinit var v1UserPath: String
     lateinit var v2UserPath: String
 
-    private val reactorClientHttpConnector: ReactorClientHttpConnector
-        = ReactorClientHttpConnector(HttpClient.create().secure()
-        .option(ChannelOption.CONNECT_TIMEOUT_MILLIS, 1000)
-        .doOnConnected { connection: Connection -> connection.addHandlerLast(ReadTimeoutHandler(5000L, TimeUnit.MILLISECONDS)) }
-    )
+    private val reactorClientHttpConnector: ReactorClientHttpConnector =
+        ReactorClientHttpConnector(
+            HttpClient.create().secure()
+                .option(ChannelOption.CONNECT_TIMEOUT_MILLIS, 1000)
+                .doOnConnected { connection: Connection -> connection.addHandlerLast(ReadTimeoutHandler(5000L, TimeUnit.MILLISECONDS)) }
+        )
 
     fun v1UserTimeLineClient(): WebClient {
         return WebClient.builder()
             .baseUrl(twitterConfig.domain + v1UserPath)
+            .clientConnector(reactorClientHttpConnector)
+            .defaultHeader(HttpHeaders.AUTHORIZATION, twitterConfig.getBearerToken())
+            .build()
+    }
+
+    fun v2UserTimeLineClient(): WebClient {
+        return WebClient.builder()
+            .baseUrl(twitterConfig.domain + v2UserPath)
             .clientConnector(reactorClientHttpConnector)
             .defaultHeader(HttpHeaders.AUTHORIZATION, twitterConfig.getBearerToken())
             .build()

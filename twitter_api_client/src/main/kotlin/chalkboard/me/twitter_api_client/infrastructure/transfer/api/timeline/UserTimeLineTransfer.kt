@@ -20,7 +20,7 @@ class UserTimeLineTransfer(
         private val log = LoggerFactory.getLogger(UserTimeLineTransfer::class.java)
     }
 
-    override fun v1UserTimeLine(request: UserTimeLineRequest) : Mono<List<TweetDto>> {
+    override fun v1UserTimeLine(request: UserTimeLineRequest): Mono<List<TweetDto>> {
         return timeLineConfig.v1UserTimeLineClient().get()
             .uri { builder ->
                 builder.queryParam("screen_name", request.screenName)
@@ -28,7 +28,7 @@ class UserTimeLineTransfer(
                 request.maxId?.let { builder.queryParam("max_id", request.maxId) }
                 request.sinceId?.let { builder.queryParam("since_id", request.sinceId) }
                 builder.queryParam("exclide_replies", request.excludeReplies.toString())
-                builder.queryParam("include_rts",request.includeRts)
+                builder.queryParam("include_rts", request.includeRts)
                 builder.queryParam("trim_user", request.trimUser).build()
             }
             .retrieve()
@@ -38,10 +38,22 @@ class UserTimeLineTransfer(
                     RuntimeException()
                 }
             }
-            .bodyToMono(object: ParameterizedTypeReference<List<TweetDto>>(){})
+            .bodyToMono(object : ParameterizedTypeReference<List<TweetDto>>() {})
     }
 
-    fun v2UserTweetTimeLine(request: UserTweetTimeLineRequest) {
-
+    fun v2UserTweetTimeLine(request: UserTweetTimeLineRequest): Mono<String> {
+        return timeLineConfig.v2UserTimeLineClient().get()
+            .uri { builder ->
+                builder.queryParams(request.queryParam())
+                    .build(request.userId)
+            }
+            .retrieve()
+            .onStatus(HttpStatus::isError) { clientResponse ->
+                clientResponse.bodyToMono(String::class.java).map { response ->
+                    log.error(response)
+                    RuntimeException()
+                }
+            }
+            .bodyToMono(String::class.java)
     }
 }
