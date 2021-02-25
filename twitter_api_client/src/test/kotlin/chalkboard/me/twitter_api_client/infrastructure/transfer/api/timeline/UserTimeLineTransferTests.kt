@@ -8,9 +8,9 @@ import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.TweetField
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.timeline.Exclude
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.timeline.MaxResults
 import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterConfig
-import chalkboard.me.twitter_api_client.presentation.api.dto.v1.TweetDto
-import chalkboard.me.twitter_api_client.presentation.api.v1.timeline.UserTimeLineRequest
-import chalkboard.me.twitter_api_client.presentation.api.v2.timeline.UserTweetTimeLineRequest
+import chalkboard.me.twitter_api_client.application.api.dto.v1.TweetDto
+import chalkboard.me.twitter_api_client.application.api.v1.timeline.UserTimeLineRequest
+import chalkboard.me.twitter_api_client.application.api.v2.timeline.UserTweetTimeLineRequest
 import chalkboard.me.valueobject.domain.type.datetime.DateTime
 import com.github.tomakehurst.wiremock.WireMockServer
 import org.junit.jupiter.api.AfterEach
