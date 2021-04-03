@@ -14,6 +14,5 @@ data class LookUpResponse(val data: Data) {
         val publicMetrics: PublicMetrics,
         val id: Long,
         val createdAt: String
-    ) {
-    }
+    )
 }

@@ -1,8 +1,10 @@
 package chalkboard.me.twitter_api_client.infrastructure.transfer.api.timeline
 
 import chalkboard.me.twitter_api_client.application.api.dto.v1.TweetDto
+import chalkboard.me.twitter_api_client.application.api.dto.v2.user.UserTimelineResponse
 import chalkboard.me.twitter_api_client.application.api.v1.timeline.UserTimeLineRepository
 import chalkboard.me.twitter_api_client.application.api.v1.timeline.UserTimeLineRequest
+import chalkboard.me.twitter_api_client.application.api.v2.timeline.UserTweetTimeLineRepository
 import chalkboard.me.twitter_api_client.application.api.v2.timeline.UserTweetTimeLineRequest
 import org.slf4j.LoggerFactory
 import org.springframework.core.ParameterizedTypeReference
@@ -14,7 +16,7 @@ import java.lang.RuntimeException
 @Repository
 class UserTimeLineTransfer(
     private val timeLineConfig: TimeLineConfig
-) : UserTimeLineRepository {
+): UserTimeLineRepository, UserTweetTimeLineRepository {
 
     companion object {
         private val log = LoggerFactory.getLogger(UserTimeLineTransfer::class.java)
@@ -41,7 +43,7 @@ class UserTimeLineTransfer(
             .bodyToMono(object : ParameterizedTypeReference<List<TweetDto>>() {})
     }
 
-    fun v2UserTweetTimeLine(request: UserTweetTimeLineRequest): Mono<String> {
+    override fun v2UserTweetTimeLine(request: UserTweetTimeLineRequest): Mono<UserTimelineResponse> {
         return timeLineConfig.v2UserTimeLineClient().get()
             .uri { builder ->
                 builder.queryParams(request.queryParam())
@@ -54,6 +56,6 @@ class UserTimeLineTransfer(
                     RuntimeException()
                 }
             }
-            .bodyToMono(String::class.java)
+            .bodyToMono(UserTimelineResponse::class.java)
     }
 }

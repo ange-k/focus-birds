@@ -9,6 +9,7 @@ import chalkboard.me.twitter_api_client.domain.model.nativeapi.timeline.Exclude
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.timeline.MaxResults
 import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterConfig
 import chalkboard.me.twitter_api_client.application.api.dto.v1.TweetDto
+import chalkboard.me.twitter_api_client.application.api.dto.v2.user.UserTimelineResponse
 import chalkboard.me.twitter_api_client.application.api.v1.timeline.UserTimeLineRequest
 import chalkboard.me.twitter_api_client.application.api.v2.timeline.UserTweetTimeLineRequest
 import chalkboard.me.valueobject.domain.type.datetime.DateTime
@@ -72,9 +73,12 @@ class UserTimeLineTransferTests(
             it.tweetFields = listOf(TweetField.TEXT, TweetField.SOURCE, TweetField.PUBLIC_METRICS, TweetField.CREATED_AT, TweetField.ENTITIES)
         }
 
-        val responseMono: Mono<String>? = userTimeLineTransfer?.v2UserTweetTimeLine(request)
+        val responseMono: Mono<UserTimelineResponse>? = userTimeLineTransfer?.v2UserTweetTimeLine(request)
         responseMono?.also {
-            System.out.println(it.block())
+            StepVerifier.create(it)
+                .expectNextMatches { response ->
+                    response.data.size == 100
+                }.verifyComplete()
         } ?: run {
             fail("失敗")
         }
