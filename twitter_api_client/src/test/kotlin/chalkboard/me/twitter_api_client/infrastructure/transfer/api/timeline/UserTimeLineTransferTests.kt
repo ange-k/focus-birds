@@ -2,9 +2,17 @@ package chalkboard.me.twitter_api_client.infrastructure.transfer.api.timeline
 
 import chalkboard.me.twitter_api_client.ComponentTestConfig
 import chalkboard.me.twitter_api_client.config.WireMockInitializer
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.expansions.timeline.UserTimelineExpansion
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.MediaField
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.TweetField
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.timeline.Exclude
+import chalkboard.me.twitter_api_client.domain.model.nativeapi.timeline.MaxResults
 import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterConfig
-import chalkboard.me.twitter_api_client.presentation.api.dto.v1.TweetDto
-import chalkboard.me.twitter_api_client.presentation.api.v1.timeline.UserTimeLineRequest
+import chalkboard.me.twitter_api_client.application.api.dto.v1.TweetDto
+import chalkboard.me.twitter_api_client.application.api.dto.v2.user.UserTimelineResponse
+import chalkboard.me.twitter_api_client.application.api.v1.timeline.UserTimeLineRequest
+import chalkboard.me.twitter_api_client.application.api.v2.timeline.UserTweetTimeLineRequest
+import chalkboard.me.valueobject.domain.type.datetime.DateTime
 import com.github.tomakehurst.wiremock.WireMockServer
 import org.junit.jupiter.api.AfterEach
 import org.junit.jupiter.api.Test
@@ -26,9 +34,10 @@ import reactor.test.StepVerifier
 @ConfigurationPropertiesScan
 @TestConstructor(autowireMode = TestConstructor.AutowireMode.ALL)
 class UserTimeLineTransferTests(
-    private val timeLineConfig : TimeLineConfig,
-    private val wireMockServer: WireMockServer) {
-    private var userTimeLineTransfer : UserTimeLineTransfer? = null
+    private val timeLineConfig: TimeLineConfig,
+    private val wireMockServer: WireMockServer
+) {
+    private var userTimeLineTransfer: UserTimeLineTransfer? = null
 
     @AfterEach
     fun setup() {
@@ -36,9 +45,9 @@ class UserTimeLineTransferTests(
     }
 
     @Test
-    fun UserTimeLineの取得() {
+    fun v1UserTimeLineの取得() {
         userTimeLineTransfer = UserTimeLineTransfer(timeLineConfig)
-        val request : UserTimeLineRequest = UserTimeLineRequest("Me109E3_jp").also {
+        val request: UserTimeLineRequest = UserTimeLineRequest("Me109E3_jp").also {
             it.count = 50
         }
 
@@ -50,6 +59,28 @@ class UserTimeLineTransferTests(
                 }.verifyComplete()
         } ?: run {
             fail("テスト失敗")
+        }
+    }
+
+    @Test
+    fun v2UserTimeLineの取得() {
+        userTimeLineTransfer = UserTimeLineTransfer(timeLineConfig)
+        val request: UserTweetTimeLineRequest = UserTweetTimeLineRequest("94954128").also {
+            it.excludes = listOf(Exclude.REPLIES, Exclude.RETWEETS)
+            it.userTimelineExpansions = listOf(UserTimelineExpansion.ATTACHMENTS_MEDIA_KEYS)
+            it.maxResults = MaxResults.from(100)
+            it.mediaFields = listOf(MediaField.URL, MediaField.TYPE, MediaField.PUBLIC_METRICS)
+            it.tweetFields = listOf(TweetField.TEXT, TweetField.SOURCE, TweetField.PUBLIC_METRICS, TweetField.CREATED_AT, TweetField.ENTITIES)
+        }
+
+        val responseMono: Mono<UserTimelineResponse>? = userTimeLineTransfer?.v2UserTweetTimeLine(request)
+        responseMono?.also {
+            StepVerifier.create(it)
+                .expectNextMatches { response ->
+                    response.data.size == 100
+                }.verifyComplete()
+        } ?: run {
+            fail("失敗")
         }
     }
 }

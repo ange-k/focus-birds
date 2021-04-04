@@ -2,8 +2,8 @@ package chalkboard.me.twitter_api_client.domain.model.nativeapi.expansions.timel
 
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.queryfields.EnumQueryFields
 
-enum class UserTimelineExpansion(override val query:String) : EnumQueryFields {
-    ATTACHMENTS_POLL_IDS("attachments.poll_ids"),  // Tweetに含まれるポーリングのメタデータを含むポーリングオブジェクトを返す
+enum class UserTimelineExpansion(override val query: String) : EnumQueryFields {
+    ATTACHMENTS_POLL_IDS("attachments.poll_ids"), // Tweetに含まれるポーリングのメタデータを含むポーリングオブジェクトを返す
     ATTACHMENTS_MEDIA_KEYS("attachments.media_keys"), // ツイートに含まれる画像、動画、GIFを表すメディアオブジェクトを返す
     AUTHOR_ID("author_id"), // 作成者のIDを返す
     ENTITIES_MENTIONS_USERNAME("entities.mentions.username"), // Tweetに記載されているユーザーのユーザーオブジェクトを返す

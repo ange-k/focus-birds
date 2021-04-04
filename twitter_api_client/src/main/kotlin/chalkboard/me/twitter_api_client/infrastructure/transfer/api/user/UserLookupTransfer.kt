@@ -1,9 +1,9 @@
 package chalkboard.me.twitter_api_client.infrastructure.transfer.api.user
 
 import chalkboard.me.twitter_api_client.infrastructure.transfer.api.timeline.UserTimeLineTransfer
-import chalkboard.me.twitter_api_client.presentation.api.dto.v2.user.LookUpResponse
-import chalkboard.me.twitter_api_client.presentation.api.v2.user.UserLookupRepository
-import chalkboard.me.twitter_api_client.presentation.api.v2.user.UserLookupRequest
+import chalkboard.me.twitter_api_client.application.api.dto.v2.user.LookUpResponse
+import chalkboard.me.twitter_api_client.application.api.v2.user.UserLookupRepository
+import chalkboard.me.twitter_api_client.application.api.v2.user.UserLookupRequest
 import org.slf4j.LoggerFactory
 import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Repository

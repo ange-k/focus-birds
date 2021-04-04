@@ -4,8 +4,8 @@ import chalkboard.me.twitter_api_client.ComponentTestConfig
 import chalkboard.me.twitter_api_client.config.WireMockInitializer
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.queryfields.RequestQueries
 import chalkboard.me.twitter_api_client.infrastructure.transfer.config.TwitterConfig
-import chalkboard.me.twitter_api_client.presentation.api.dto.v2.user.LookUpResponse
-import chalkboard.me.twitter_api_client.presentation.api.v2.user.UserLookupRequest
+import chalkboard.me.twitter_api_client.application.api.dto.v2.user.LookUpResponse
+import chalkboard.me.twitter_api_client.application.api.v2.user.UserLookupRequest
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.TweetField
 import chalkboard.me.twitter_api_client.domain.model.nativeapi.fields.UserField
 import com.github.tomakehurst.wiremock.WireMockServer
