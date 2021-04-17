@@ -1,6 +1,11 @@
 twitter:
   domain: https://api.twitter.com
   bearer: override
+  auth:
+    key: override
+    secret: override
+    callback: http://127.0.0.1/auth
+    requestu-token-path: /oauth/request_token
 
 twitter-api:
   timeline:
